@@ -1,0 +1,29 @@
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-labels-idx1-ubyte.gz
+[1m29515/29515[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-images-idx3-ubyte.gz
+[1m26421880/26421880[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/t10k-labels-idx1-ubyte.gz
+[1m5148/5148[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/t10k-images-idx3-ubyte.gz
+[1m4422102/4422102[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 0us/step
+Epoch 1/20 - loss: 0.0094 - accuracy: 0.1059 - val_loss: 0.0003 - val_accuracy: 0.0990
+Epoch 2/20 - loss: 0.0002 - accuracy: 0.1001 - val_loss: 0.0001 - val_accuracy: 0.0990
+Epoch 3/20 - loss: 0.0001 - accuracy: 0.1002 - val_loss: 0.0001 - val_accuracy: 0.0992
+Epoch 4/20 - loss: 0.0001 - accuracy: 0.1006 - val_loss: 0.0001 - val_accuracy: 0.0993
+Epoch 5/20 - loss: 0.0001 - accuracy: 0.1016 - val_loss: 0.0000 - val_accuracy: 0.1005
+Epoch 6/20 - loss: 0.0000 - accuracy: 0.1030 - val_loss: 0.0000 - val_accuracy: 0.1022
+Epoch 7/20 - loss: 0.0000 - accuracy: 0.1055 - val_loss: 0.0000 - val_accuracy: 0.1060
+Epoch 8/20 - loss: 0.0000 - accuracy: 0.1086 - val_loss: 0.0000 - val_accuracy: 0.1092
+Epoch 9/20 - loss: 0.0000 - accuracy: 0.1119 - val_loss: 0.0000 - val_accuracy: 0.1122
+Epoch 10/20 - loss: 0.0000 - accuracy: 0.1151 - val_loss: 0.0000 - val_accuracy: 0.1152
+Epoch 11/20 - loss: 0.0000 - accuracy: 0.1181 - val_loss: 0.0000 - val_accuracy: 0.1173
+Epoch 12/20 - loss: 0.0000 - accuracy: 0.1205 - val_loss: 0.0000 - val_accuracy: 0.1200
+Epoch 13/20 - loss: 0.0000 - accuracy: 0.1225 - val_loss: 0.0000 - val_accuracy: 0.1225
+Epoch 14/20 - loss: 0.0000 - accuracy: 0.1251 - val_loss: 0.0000 - val_accuracy: 0.1252
+Epoch 15/20 - loss: 0.0000 - accuracy: 0.1269 - val_loss: 0.0000 - val_accuracy: 0.1263
+Epoch 16/20 - loss: 0.0000 - accuracy: 0.1286 - val_loss: 0.0000 - val_accuracy: 0.1273
+Epoch 17/20 - loss: 0.0000 - accuracy: 0.1306 - val_loss: 0.0000 - val_accuracy: 0.1283
+Epoch 18/20 - loss: 0.0000 - accuracy: 0.1322 - val_loss: 0.0000 - val_accuracy: 0.1288
+Epoch 19/20 - loss: 0.0000 - accuracy: 0.1337 - val_loss: 0.0000 - val_accuracy: 0.1292
+Epoch 20/20 - loss: 0.0000 - accuracy: 0.1349 - val_loss: 0.0000 - val_accuracy: 0.1300
+Test loss: 0.0000 - Test accuracy: 0.1362

@@ -1,0 +1,17 @@
+{"time":"2025-03-07T22:19:19.0177295+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250307_221918-vckg0rbh\\logs\\debug-core.log"}
+{"time":"2025-03-07T22:19:19.1477384+05:30","level":"INFO","msg":"created new stream","id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.1477384+05:30","level":"INFO","msg":"stream: started","id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.1477384+05:30","level":"INFO","msg":"handler: started","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.1477384+05:30","level":"INFO","msg":"sender: started","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.1477384+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.4652761+05:30","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-07T22:19:19.4658927+05:30","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403 Forbidden: {\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-03-07T22:19:19.4966528+05:30","level":"INFO","msg":"stream: closing","id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.4966528+05:30","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-03-07T22:19:19.8037486+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-07T22:19:19.8047062+05:30","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"project myname/myprojectname not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2025-03-07T22:19:19.8104034+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T22:19:19.8104034+05:30","level":"INFO","msg":"handler: closed","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.8104034+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.8104034+05:30","level":"INFO","msg":"sender: closed","stream_id":"vckg0rbh"}
+{"time":"2025-03-07T22:19:19.8227368+05:30","level":"INFO","msg":"stream: closed","id":"vckg0rbh"}

@@ -1,0 +1,15 @@
+{"time":"2025-03-07T22:06:02.2663192+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250307_220602-vm644nhl\\logs\\debug-core.log"}
+{"time":"2025-03-07T22:06:02.3977807+05:30","level":"INFO","msg":"created new stream","id":"vm644nhl"}
+{"time":"2025-03-07T22:06:02.3977807+05:30","level":"INFO","msg":"stream: started","id":"vm644nhl"}
+{"time":"2025-03-07T22:06:02.3977807+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:06:02.3977807+05:30","level":"INFO","msg":"handler: started","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:06:02.3977807+05:30","level":"INFO","msg":"sender: started","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:06:02.9092425+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T22:07:13.3802636+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T22:07:13.3802636+05:30","level":"INFO","msg":"stream: closing","id":"vm644nhl"}
+{"time":"2025-03-07T22:07:13.3833495+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T22:07:14.9784245+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T22:07:15.3521048+05:30","level":"INFO","msg":"sender: closed","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:07:15.3521048+05:30","level":"INFO","msg":"handler: closed","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:07:15.3521048+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vm644nhl"}
+{"time":"2025-03-07T22:07:15.3958156+05:30","level":"INFO","msg":"stream: closed","id":"vm644nhl"}

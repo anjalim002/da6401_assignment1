@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\train.py", line 287, in <module>
+    main()
+  File "K:\DA6401\da6401_assignment1\train.py", line 284, in main
+    train_model(args)
+  File "K:\DA6401\da6401_assignment1\train.py", line 151, in train_model
+    model = NeuralNetwork(
+  File "K:\DA6401\da6401_assignment1\src\network.py", line 32, in __init__
+    self.activations.append(get_activation('softmax'))
+  File "K:\DA6401\da6401_assignment1\src\activation.py", line 68, in get_activation
+    raise ValueError(f"Activation {name} not supported")
+ValueError: Activation softmax not supported
