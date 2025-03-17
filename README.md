@@ -134,5 +134,6 @@ Our experiments show that Cross-Entropy loss generally outperforms Mean Squared 
 
 ### WANDB LINK
 https://wandb.ai/da24m002-indian-institute-of-technology-madras/da6401_a1/reports/DA6401-Deep-Learning-Assignment-1--VmlldzoxMTgxOTgxNA?accessToken=uugphpbjub5dporqdk7gonmie64v1velf82a3eq05rrdhcwdsjf3s2yw9v9dadse
-###GIT
+
+### GIT
 https://github.com/anjalim002/da6401_assignment1
