@@ -1,0 +1,16 @@
+{"time":"2025-03-10T02:41:12.2187524+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_024112-hejx3270\\logs\\debug-core.log"}
+{"time":"2025-03-10T02:41:12.3382351+05:30","level":"INFO","msg":"created new stream","id":"hejx3270"}
+{"time":"2025-03-10T02:41:12.3382351+05:30","level":"INFO","msg":"stream: started","id":"hejx3270"}
+{"time":"2025-03-10T02:41:12.3382351+05:30","level":"INFO","msg":"handler: started","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:12.3382351+05:30","level":"INFO","msg":"sender: started","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:12.3382351+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:12.7014668+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T02:41:45.3680179+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T02:41:45.3688278+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T02:41:46.3819838+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7337574,"progress":"819B/819B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7337574,"progress":"724B/724B"},{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7337574,"progress":"23.3KB/23.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4012793,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T02:41:46.9554465+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T02:41:47.2911184+05:30","level":"INFO","msg":"stream: closing","id":"hejx3270"}
+{"time":"2025-03-10T02:41:47.2911184+05:30","level":"INFO","msg":"handler: closed","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:47.2911184+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:47.2911184+05:30","level":"INFO","msg":"sender: closed","stream_id":"hejx3270"}
+{"time":"2025-03-10T02:41:47.2961643+05:30","level":"INFO","msg":"stream: closed","id":"hejx3270"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T12:46:51.3300394+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_124651-99ihi6wk\\logs\\debug-core.log"}
+{"time":"2025-03-16T12:46:51.4564548+05:30","level":"INFO","msg":"created new stream","id":"99ihi6wk"}
+{"time":"2025-03-16T12:46:51.4564548+05:30","level":"INFO","msg":"stream: started","id":"99ihi6wk"}
+{"time":"2025-03-16T12:46:51.4564548+05:30","level":"INFO","msg":"handler: started","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:46:51.4564548+05:30","level":"INFO","msg":"sender: started","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:46:51.4564548+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:46:51.8412513+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:57:06.7572643+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:57:06.7592445+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:57:07.8110936+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3252155,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3252155,"progress":"746B/746B"},{"desc":"uploading history steps 19-22, summary, console lines 20-21","runtime_seconds":0.2593191},{"desc":"uploading config.yaml","runtime_seconds":0.00327,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-16T12:57:08.7667781+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:57:09.0713702+05:30","level":"INFO","msg":"stream: closing","id":"99ihi6wk"}
+{"time":"2025-03-16T12:57:09.0713702+05:30","level":"INFO","msg":"handler: closed","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:57:09.0718999+05:30","level":"INFO","msg":"sender: closed","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:57:09.0713702+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"99ihi6wk"}
+{"time":"2025-03-16T12:57:09.1013953+05:30","level":"INFO","msg":"stream: closed","id":"99ihi6wk"}

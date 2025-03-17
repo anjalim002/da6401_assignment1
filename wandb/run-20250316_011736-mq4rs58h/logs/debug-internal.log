@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:17:36.2739601+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_011736-mq4rs58h\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:17:36.3953103+05:30","level":"INFO","msg":"created new stream","id":"mq4rs58h"}
+{"time":"2025-03-16T01:17:36.3958186+05:30","level":"INFO","msg":"handler: started","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:17:36.3958186+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:17:36.3958186+05:30","level":"INFO","msg":"stream: started","id":"mq4rs58h"}
+{"time":"2025-03-16T01:17:36.3958186+05:30","level":"INFO","msg":"sender: started","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:17:36.7730634+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:18:34.130454+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:18:34.1315014+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:18:35.1451681+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7098339,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7098339,"progress":"740B/740B"},{"desc":"uploading config.yaml","runtime_seconds":0.3888379,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T01:18:35.7118906+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:18:36.0650102+05:30","level":"INFO","msg":"stream: closing","id":"mq4rs58h"}
+{"time":"2025-03-16T01:18:36.0650102+05:30","level":"INFO","msg":"handler: closed","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:18:36.0650102+05:30","level":"INFO","msg":"sender: closed","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:18:36.0650102+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mq4rs58h"}
+{"time":"2025-03-16T01:18:36.092334+05:30","level":"INFO","msg":"stream: closed","id":"mq4rs58h"}

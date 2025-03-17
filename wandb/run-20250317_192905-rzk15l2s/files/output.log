@@ -1,0 +1,16 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'mean_squared_error', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'compare': True}
+Epoch 1/20 - loss: 0.2134 - accuracy: 0.6654 - val_loss: 0.1310 - val_accuracy: 0.8100
+Epoch 2/20 - loss: 0.1186 - accuracy: 0.8350 - val_loss: 0.1180 - val_accuracy: 0.8375
+Epoch 3/20 - loss: 0.1029 - accuracy: 0.8589 - val_loss: 0.0972 - val_accuracy: 0.8683
+Epoch 4/20 - loss: 0.0949 - accuracy: 0.8698 - val_loss: 0.0957 - val_accuracy: 0.8697
+Epoch 5/20 - loss: 0.0889 - accuracy: 0.8790 - val_loss: 0.0907 - val_accuracy: 0.8737
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\cemse.py", line 493, in run_comparison
+    mse_results = train_model(args)
+  File "K:\DA6401\da6401_assignment1\cemse.py", line 235, in train_model
+    y_pred = model.forward(X_batch)
+  File "K:\DA6401\da6401_assignment1\src\network.py", line 49, in forward
+    outputs = layer.forward(outputs)
+  File "K:\DA6401\da6401_assignment1\src\layers.py", line 54, in forward
+    return np.dot(inputs, self.params['W']) + self.params['b']
+KeyboardInterrupt

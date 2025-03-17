@@ -1,0 +1,16 @@
+{"time":"2025-03-17T19:30:20.6690546+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_193020-tddlsjh8\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:30:20.7953631+05:30","level":"INFO","msg":"created new stream","id":"tddlsjh8"}
+{"time":"2025-03-17T19:30:20.7957729+05:30","level":"INFO","msg":"stream: started","id":"tddlsjh8"}
+{"time":"2025-03-17T19:30:20.7957729+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:30:20.7958924+05:30","level":"INFO","msg":"handler: started","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:30:20.795974+05:30","level":"INFO","msg":"sender: started","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:30:21.2310798+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:33:13.4028574+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T19:33:13.4066149+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T19:33:14.5493469+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_21_2f6c01f64fd5a46741be.png","runtime_seconds":0.8939146,"progress":"396.0KB/396.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1946194,"progress":"1.2KB/1.2KB"}],"total_operations":2}}
+{"time":"2025-03-17T19:33:15.1324371+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T19:33:15.6691693+05:30","level":"INFO","msg":"stream: closing","id":"tddlsjh8"}
+{"time":"2025-03-17T19:33:15.6691693+05:30","level":"INFO","msg":"sender: closed","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:33:15.6696157+05:30","level":"INFO","msg":"handler: closed","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:33:15.6696157+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tddlsjh8"}
+{"time":"2025-03-17T19:33:15.7303221+05:30","level":"INFO","msg":"stream: closed","id":"tddlsjh8"}

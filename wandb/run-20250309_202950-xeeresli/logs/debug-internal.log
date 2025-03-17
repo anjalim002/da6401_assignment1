@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:29:50.0347584+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_202950-xeeresli\\logs\\debug-core.log"}
+{"time":"2025-03-09T20:29:50.1602838+05:30","level":"INFO","msg":"created new stream","id":"xeeresli"}
+{"time":"2025-03-09T20:29:50.160578+05:30","level":"INFO","msg":"stream: started","id":"xeeresli"}
+{"time":"2025-03-09T20:29:50.160578+05:30","level":"INFO","msg":"handler: started","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:29:50.160578+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:29:50.160578+05:30","level":"INFO","msg":"sender: started","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:29:50.5145996+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:30:34.6058055+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:30:34.6069925+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:30:35.610483+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3694103,"progress":"1.1KB/1.1KB"}],"total_operations":1}}
+{"time":"2025-03-09T20:30:35.784955+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:30:36.1597306+05:30","level":"INFO","msg":"stream: closing","id":"xeeresli"}
+{"time":"2025-03-09T20:30:36.1597306+05:30","level":"INFO","msg":"handler: closed","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:30:36.1597306+05:30","level":"INFO","msg":"sender: closed","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:30:36.1597306+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xeeresli"}
+{"time":"2025-03-09T20:30:36.1781732+05:30","level":"INFO","msg":"stream: closed","id":"xeeresli"}

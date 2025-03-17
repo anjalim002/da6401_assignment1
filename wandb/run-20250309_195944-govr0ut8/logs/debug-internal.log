@@ -1,0 +1,16 @@
+{"time":"2025-03-09T19:59:44.2614027+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_195944-govr0ut8\\logs\\debug-core.log"}
+{"time":"2025-03-09T19:59:44.3896253+05:30","level":"INFO","msg":"created new stream","id":"govr0ut8"}
+{"time":"2025-03-09T19:59:44.3896253+05:30","level":"INFO","msg":"stream: started","id":"govr0ut8"}
+{"time":"2025-03-09T19:59:44.3896253+05:30","level":"INFO","msg":"handler: started","stream_id":"govr0ut8"}
+{"time":"2025-03-09T19:59:44.3896253+05:30","level":"INFO","msg":"sender: started","stream_id":"govr0ut8"}
+{"time":"2025-03-09T19:59:44.3901722+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"govr0ut8"}
+{"time":"2025-03-09T19:59:44.7434569+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:01:30.4066773+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:01:30.4079741+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:01:31.4203812+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-09T20:01:31.7655232+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:01:32.0948434+05:30","level":"INFO","msg":"stream: closing","id":"govr0ut8"}
+{"time":"2025-03-09T20:01:32.0948434+05:30","level":"INFO","msg":"handler: closed","stream_id":"govr0ut8"}
+{"time":"2025-03-09T20:01:32.0948434+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"govr0ut8"}
+{"time":"2025-03-09T20:01:32.094996+05:30","level":"INFO","msg":"sender: closed","stream_id":"govr0ut8"}
+{"time":"2025-03-09T20:01:32.1189685+05:30","level":"INFO","msg":"stream: closed","id":"govr0ut8"}

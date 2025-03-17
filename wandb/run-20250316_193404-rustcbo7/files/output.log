@@ -1,0 +1,18 @@
+🔄 Starting training with config: {'activation': 'sigmoid', 'batch_size': 32, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 15, 'epsilon': 1e-08, 'hidden_size': 128, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 4, 'optimizer': 'rmsprop', 'weight_decay': 0, 'weight_init': 'random'}
+Epoch 1/15 - loss: 1.7585 - accuracy: 0.3051 - val_loss: 1.3797 - val_accuracy: 0.4785
+Epoch 2/15 - loss: 1.2103 - accuracy: 0.5076 - val_loss: 1.0650 - val_accuracy: 0.5520
+Epoch 3/15 - loss: 0.9545 - accuracy: 0.6347 - val_loss: 0.8750 - val_accuracy: 0.7320
+Epoch 4/15 - loss: 0.7392 - accuracy: 0.7949 - val_loss: 0.7273 - val_accuracy: 0.8162
+Epoch 5/15 - loss: 0.6525 - accuracy: 0.8340 - val_loss: 0.6309 - val_accuracy: 0.8467
+Epoch 6/15 - loss: 0.6071 - accuracy: 0.8483 - val_loss: 0.6363 - val_accuracy: 0.8467
+Epoch 7/15 - loss: 0.5873 - accuracy: 0.8564 - val_loss: 0.6992 - val_accuracy: 0.8200
+[34m[1mwandb[0m: Network error (ConnectionError), entering retry loop.
+Epoch 8/15 - loss: 0.5716 - accuracy: 0.8626 - val_loss: 0.6032 - val_accuracy: 0.8582
+Epoch 9/15 - loss: 0.5549 - accuracy: 0.8672 - val_loss: 0.5946 - val_accuracy: 0.8583
+Epoch 10/15 - loss: 0.5406 - accuracy: 0.8723 - val_loss: 0.5664 - val_accuracy: 0.8677
+Epoch 11/15 - loss: 0.5278 - accuracy: 0.8754 - val_loss: 0.5996 - val_accuracy: 0.8545
+Epoch 12/15 - loss: 0.5172 - accuracy: 0.8789 - val_loss: 0.5397 - val_accuracy: 0.8700
+Epoch 13/15 - loss: 0.5088 - accuracy: 0.8816 - val_loss: 0.5764 - val_accuracy: 0.8693
+Epoch 14/15 - loss: 0.4942 - accuracy: 0.8841 - val_loss: 0.5484 - val_accuracy: 0.8622
+Epoch 15/15 - loss: 0.4810 - accuracy: 0.8869 - val_loss: 0.5320 - val_accuracy: 0.8717
+Test loss: 0.5653 - Test accuracy: 0.8624

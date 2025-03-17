@@ -1,0 +1,11 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'random'}
+Epoch 1/5 - loss: 2.3026 - accuracy: 0.0998 - val_loss: 2.3026 - val_accuracy: 0.1028
+Epoch 2/5 - loss: 2.3026 - accuracy: 0.0993 - val_loss: 2.3026 - val_accuracy: 0.1003
+Epoch 3/5 - loss: 2.3026 - accuracy: 0.0995 - val_loss: 2.3026 - val_accuracy: 0.0990
+Epoch 4/5 - loss: 2.3026 - accuracy: 0.0996 - val_loss: 2.3026 - val_accuracy: 0.1020
+Epoch 5/5 - loss: 2.3026 - accuracy: 0.0996 - val_loss: 2.3026 - val_accuracy: 0.0973
+Test loss: 2.3026 - Test accuracy: 0.1000
+K:\DA6401\da6401_assignment1\train.py:117: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  plt.figure(figsize=(10, 8))
+K:\DA6401\da6401_assignment1\train.py:269: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig, axs = plt.subplots(2, 5, figsize=(12, 6))

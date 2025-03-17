@@ -1,0 +1,16 @@
+{"time":"2025-03-10T10:42:24.3360281+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_104224-bffh8oo9\\logs\\debug-core.log"}
+{"time":"2025-03-10T10:42:24.458528+05:30","level":"INFO","msg":"created new stream","id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:24.458528+05:30","level":"INFO","msg":"stream: started","id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:24.458528+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:24.458528+05:30","level":"INFO","msg":"handler: started","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:24.458528+05:30","level":"INFO","msg":"sender: started","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:24.8889993+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T10:42:30.1401243+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T10:42:30.1410305+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T10:42:31.1600106+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\Fashion MNIST Class Examples_1_02c368587af2706c8c0c.png","runtime_seconds":0.7393616,"progress":"376B/376B"},{"desc":"uploading config.yaml","runtime_seconds":0.3987382,"progress":"603B/603B"}],"total_operations":2}}
+{"time":"2025-03-10T10:42:31.6995556+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T10:42:32.0479279+05:30","level":"INFO","msg":"stream: closing","id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:32.0479279+05:30","level":"INFO","msg":"handler: closed","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:32.0479279+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:32.0479279+05:30","level":"INFO","msg":"sender: closed","stream_id":"bffh8oo9"}
+{"time":"2025-03-10T10:42:32.0980346+05:30","level":"INFO","msg":"stream: closed","id":"bffh8oo9"}

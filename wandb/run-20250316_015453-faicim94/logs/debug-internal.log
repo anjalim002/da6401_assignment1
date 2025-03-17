@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:54:53.0402525+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_015453-faicim94\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:54:53.1706768+05:30","level":"INFO","msg":"created new stream","id":"faicim94"}
+{"time":"2025-03-16T01:54:53.1706768+05:30","level":"INFO","msg":"stream: started","id":"faicim94"}
+{"time":"2025-03-16T01:54:53.1706768+05:30","level":"INFO","msg":"handler: started","stream_id":"faicim94"}
+{"time":"2025-03-16T01:54:53.1706768+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"faicim94"}
+{"time":"2025-03-16T01:54:53.1706768+05:30","level":"INFO","msg":"sender: started","stream_id":"faicim94"}
+{"time":"2025-03-16T01:54:53.5414818+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T02:04:50.3588759+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T02:04:50.3600312+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T02:04:51.3808181+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4322266,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1145974,"progress":"1.1KB/1.1KB"}],"total_operations":2}}
+{"time":"2025-03-16T02:04:52.2569221+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T02:04:52.6008504+05:30","level":"INFO","msg":"stream: closing","id":"faicim94"}
+{"time":"2025-03-16T02:04:52.6008504+05:30","level":"INFO","msg":"handler: closed","stream_id":"faicim94"}
+{"time":"2025-03-16T02:04:52.6008504+05:30","level":"INFO","msg":"sender: closed","stream_id":"faicim94"}
+{"time":"2025-03-16T02:04:52.6008504+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"faicim94"}
+{"time":"2025-03-16T02:04:52.6190788+05:30","level":"INFO","msg":"stream: closed","id":"faicim94"}

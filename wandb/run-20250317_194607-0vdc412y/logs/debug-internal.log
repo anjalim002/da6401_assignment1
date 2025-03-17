@@ -1,0 +1,16 @@
+{"time":"2025-03-17T19:46:07.3568587+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_194607-0vdc412y\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:46:07.499168+05:30","level":"INFO","msg":"created new stream","id":"0vdc412y"}
+{"time":"2025-03-17T19:46:07.499448+05:30","level":"INFO","msg":"stream: started","id":"0vdc412y"}
+{"time":"2025-03-17T19:46:07.499448+05:30","level":"INFO","msg":"sender: started","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:46:07.499448+05:30","level":"INFO","msg":"handler: started","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:46:07.499504+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:46:08.0051572+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:48:48.4219362+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T19:48:48.4289752+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T19:48:49.4693514+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_21_4b6ae4c907c4f9efe092.png","runtime_seconds":0.7744316,"progress":"395.5KB/395.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0684688,"progress":"1.2KB/1.2KB"}],"total_operations":2}}
+{"time":"2025-03-17T19:48:50.1590505+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T19:48:50.4768049+05:30","level":"INFO","msg":"stream: closing","id":"0vdc412y"}
+{"time":"2025-03-17T19:48:50.4768049+05:30","level":"INFO","msg":"handler: closed","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:48:50.4768049+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:48:50.4773054+05:30","level":"INFO","msg":"sender: closed","stream_id":"0vdc412y"}
+{"time":"2025-03-17T19:48:50.5220316+05:30","level":"INFO","msg":"stream: closed","id":"0vdc412y"}

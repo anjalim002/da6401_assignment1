@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:47:16.7382765+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_014716-day7tewh\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:47:16.8685843+05:30","level":"INFO","msg":"created new stream","id":"day7tewh"}
+{"time":"2025-03-16T01:47:16.8685843+05:30","level":"INFO","msg":"stream: started","id":"day7tewh"}
+{"time":"2025-03-16T01:47:16.8685843+05:30","level":"INFO","msg":"handler: started","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:47:16.8685843+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:47:16.8685843+05:30","level":"INFO","msg":"sender: started","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:47:17.2466213+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:48:39.8179333+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:48:39.8187986+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:48:40.8242637+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.405105,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.405105,"progress":"731B/731B"},{"desc":"uploading config.yaml","runtime_seconds":0.1052613,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T01:48:41.7085831+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:48:42.0524285+05:30","level":"INFO","msg":"stream: closing","id":"day7tewh"}
+{"time":"2025-03-16T01:48:42.0524285+05:30","level":"INFO","msg":"handler: closed","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:48:42.0524285+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:48:42.0524285+05:30","level":"INFO","msg":"sender: closed","stream_id":"day7tewh"}
+{"time":"2025-03-16T01:48:42.0766925+05:30","level":"INFO","msg":"stream: closed","id":"day7tewh"}

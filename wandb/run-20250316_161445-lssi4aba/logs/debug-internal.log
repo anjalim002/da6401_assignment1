@@ -1,0 +1,16 @@
+{"time":"2025-03-16T16:14:45.8100805+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_161445-lssi4aba\\logs\\debug-core.log"}
+{"time":"2025-03-16T16:14:45.9338664+05:30","level":"INFO","msg":"created new stream","id":"lssi4aba"}
+{"time":"2025-03-16T16:14:45.9339411+05:30","level":"INFO","msg":"stream: started","id":"lssi4aba"}
+{"time":"2025-03-16T16:14:45.9339411+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:14:45.9339411+05:30","level":"INFO","msg":"handler: started","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:14:45.9339411+05:30","level":"INFO","msg":"sender: started","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:14:46.2818472+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T16:17:03.1936814+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T16:17:03.1946736+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T16:17:04.2096645+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3872619,"progress":"739B/739B"},{"desc":"uploading config.yaml","runtime_seconds":0.1020199,"progress":"1.1KB/1.1KB"}],"total_operations":2}}
+{"time":"2025-03-16T16:17:04.500854+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T16:17:04.8325056+05:30","level":"INFO","msg":"stream: closing","id":"lssi4aba"}
+{"time":"2025-03-16T16:17:04.8325056+05:30","level":"INFO","msg":"handler: closed","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:17:04.8325056+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:17:04.8325056+05:30","level":"INFO","msg":"sender: closed","stream_id":"lssi4aba"}
+{"time":"2025-03-16T16:17:04.8399286+05:30","level":"INFO","msg":"stream: closed","id":"lssi4aba"}

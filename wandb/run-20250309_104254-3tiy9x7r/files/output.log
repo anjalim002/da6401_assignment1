@@ -1,0 +1,1 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 32, 'dataset': 'fashion_mnist', 'epochs': 5, 'hidden_size': 32, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'num_layers': 4, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'Xavier'}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T19:33:15.7469995+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_193315-xokervml\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:33:15.8790197+05:30","level":"INFO","msg":"created new stream","id":"xokervml"}
+{"time":"2025-03-17T19:33:15.8790197+05:30","level":"INFO","msg":"stream: started","id":"xokervml"}
+{"time":"2025-03-17T19:33:15.8790197+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xokervml"}
+{"time":"2025-03-17T19:33:15.8799956+05:30","level":"INFO","msg":"handler: started","stream_id":"xokervml"}
+{"time":"2025-03-17T19:33:15.8799956+05:30","level":"INFO","msg":"sender: started","stream_id":"xokervml"}
+{"time":"2025-03-17T19:33:16.2776114+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:35:46.6425857+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T19:35:46.6443663+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T19:35:47.7354409+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_21_519e82b7fa43a2cf0024.png","runtime_seconds":0.7904689,"progress":"392.1KB/392.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4756654,"progress":"524B/524B"},{"desc":"uploading config.yaml","runtime_seconds":0.1454691,"progress":"1.2KB/1.2KB"}],"total_operations":3}}
+{"time":"2025-03-17T19:35:48.6007312+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T19:35:48.9275542+05:30","level":"INFO","msg":"stream: closing","id":"xokervml"}
+{"time":"2025-03-17T19:35:48.9275542+05:30","level":"INFO","msg":"handler: closed","stream_id":"xokervml"}
+{"time":"2025-03-17T19:35:48.9275542+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xokervml"}
+{"time":"2025-03-17T19:35:48.9275542+05:30","level":"INFO","msg":"sender: closed","stream_id":"xokervml"}
+{"time":"2025-03-17T19:35:48.9866323+05:30","level":"INFO","msg":"stream: closed","id":"xokervml"}

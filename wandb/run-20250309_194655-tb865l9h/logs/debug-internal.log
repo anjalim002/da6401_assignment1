@@ -1,0 +1,16 @@
+{"time":"2025-03-09T19:46:55.4993772+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_194655-tb865l9h\\logs\\debug-core.log"}
+{"time":"2025-03-09T19:46:55.6242774+05:30","level":"INFO","msg":"created new stream","id":"tb865l9h"}
+{"time":"2025-03-09T19:46:55.6247883+05:30","level":"INFO","msg":"stream: started","id":"tb865l9h"}
+{"time":"2025-03-09T19:46:55.6247883+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:46:55.6247883+05:30","level":"INFO","msg":"handler: started","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:46:55.6247883+05:30","level":"INFO","msg":"sender: started","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:46:56.0126943+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T19:48:52.798345+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T19:48:52.7997882+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T19:48:53.8075962+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4140577,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4141223,"progress":"743B/743B"},{"desc":"uploading config.yaml","runtime_seconds":0.0625796,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-09T19:48:54.7213926+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T19:48:55.2453723+05:30","level":"INFO","msg":"stream: closing","id":"tb865l9h"}
+{"time":"2025-03-09T19:48:55.2453723+05:30","level":"INFO","msg":"handler: closed","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:48:55.2453723+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:48:55.2458951+05:30","level":"INFO","msg":"sender: closed","stream_id":"tb865l9h"}
+{"time":"2025-03-09T19:48:55.29187+05:30","level":"INFO","msg":"stream: closed","id":"tb865l9h"}

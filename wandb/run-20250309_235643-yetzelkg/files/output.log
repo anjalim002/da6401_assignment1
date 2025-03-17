@@ -1,0 +1,7 @@
+🔄 Starting training with config: {'activation': 'sigmoid', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'rmsprop', 'weight_decay': 0.5, 'weight_init': 'random'}
+Epoch 1/5 - loss: 2.3030 - accuracy: 0.1006 - val_loss: 2.3032 - val_accuracy: 0.1072
+Epoch 2/5 - loss: 2.3032 - accuracy: 0.0974 - val_loss: 2.3031 - val_accuracy: 0.0933
+Epoch 3/5 - loss: 2.3030 - accuracy: 0.1019 - val_loss: 2.3026 - val_accuracy: 0.1003
+Epoch 4/5 - loss: 2.3032 - accuracy: 0.0988 - val_loss: 2.3025 - val_accuracy: 0.1020
+Epoch 5/5 - loss: 2.3030 - accuracy: 0.0996 - val_loss: 2.3027 - val_accuracy: 0.0983
+Test loss: 2.3030 - Test accuracy: 0.1000

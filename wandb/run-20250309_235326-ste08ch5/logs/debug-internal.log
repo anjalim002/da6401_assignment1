@@ -1,0 +1,16 @@
+{"time":"2025-03-09T23:53:26.1160338+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_235326-ste08ch5\\logs\\debug-core.log"}
+{"time":"2025-03-09T23:53:26.265014+05:30","level":"INFO","msg":"created new stream","id":"ste08ch5"}
+{"time":"2025-03-09T23:53:26.2664574+05:30","level":"INFO","msg":"stream: started","id":"ste08ch5"}
+{"time":"2025-03-09T23:53:26.265815+05:30","level":"INFO","msg":"handler: started","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:53:26.2671893+05:30","level":"INFO","msg":"sender: started","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:53:26.2671893+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:53:26.7233852+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:53:58.2950271+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:53:58.2976388+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:53:59.3253674+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_12_3b17a40d3c0003481150.png","runtime_seconds":0.7487371,"progress":"23.3KB/23.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7487371,"progress":"741B/741B"},{"desc":"uploading config.yaml","runtime_seconds":0.4255356,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-09T23:53:59.883059+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:54:00.2467873+05:30","level":"INFO","msg":"stream: closing","id":"ste08ch5"}
+{"time":"2025-03-09T23:54:00.247322+05:30","level":"INFO","msg":"handler: closed","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:54:00.247322+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:54:00.247322+05:30","level":"INFO","msg":"sender: closed","stream_id":"ste08ch5"}
+{"time":"2025-03-09T23:54:00.2766264+05:30","level":"INFO","msg":"stream: closed","id":"ste08ch5"}

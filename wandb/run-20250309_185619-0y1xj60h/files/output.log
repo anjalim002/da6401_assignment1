@@ -1,0 +1,8 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.0001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 4, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/5 - loss: 0.1688 - accuracy: 0.7699 - val_loss: 0.1204 - val_accuracy: 0.8363
+Epoch 2/5 - loss: 0.1153 - accuracy: 0.8425 - val_loss: 0.1058 - val_accuracy: 0.8572
+Epoch 3/5 - loss: 0.1053 - accuracy: 0.8570 - val_loss: 0.1003 - val_accuracy: 0.8630
+Epoch 4/5 - loss: 0.0989 - accuracy: 0.8665 - val_loss: 0.0962 - val_accuracy: 0.8693
+Epoch 5/5 - loss: 0.0948 - accuracy: 0.8712 - val_loss: 0.0976 - val_accuracy: 0.8655
+Test loss: 0.1060 - Test accuracy: 0.8550

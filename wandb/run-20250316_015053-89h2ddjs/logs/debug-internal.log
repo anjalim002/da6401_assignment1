@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:50:53.5910586+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_015053-89h2ddjs\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:50:53.7093707+05:30","level":"INFO","msg":"created new stream","id":"89h2ddjs"}
+{"time":"2025-03-16T01:50:53.709872+05:30","level":"INFO","msg":"stream: started","id":"89h2ddjs"}
+{"time":"2025-03-16T01:50:53.709872+05:30","level":"INFO","msg":"handler: started","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:50:53.709872+05:30","level":"INFO","msg":"sender: started","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:50:53.709872+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:50:54.0491137+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:53:00.2682927+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:53:00.2696305+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:53:01.2860297+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4180389,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4180389,"progress":"745B/745B"},{"desc":"uploading config.yaml","runtime_seconds":0.0928488,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T01:53:02.2202813+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:53:02.569539+05:30","level":"INFO","msg":"stream: closing","id":"89h2ddjs"}
+{"time":"2025-03-16T01:53:02.569539+05:30","level":"INFO","msg":"handler: closed","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:53:02.569539+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:53:02.5700395+05:30","level":"INFO","msg":"sender: closed","stream_id":"89h2ddjs"}
+{"time":"2025-03-16T01:53:02.58895+05:30","level":"INFO","msg":"stream: closed","id":"89h2ddjs"}

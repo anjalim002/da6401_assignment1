@@ -1,0 +1,26 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'cross_entropy', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'run_tag': '_cross_entropy', 'compare': True}
+Epoch 1/20 - loss: 0.9397 - accuracy: 0.6592 - val_loss: 0.5538 - val_accuracy: 0.8095
+Epoch 2/20 - loss: 0.4840 - accuracy: 0.8406 - val_loss: 0.4576 - val_accuracy: 0.8470
+Epoch 3/20 - loss: 0.4202 - accuracy: 0.8621 - val_loss: 0.4188 - val_accuracy: 0.8623
+Epoch 4/20 - loss: 0.3901 - accuracy: 0.8716 - val_loss: 0.3893 - val_accuracy: 0.8752
+Epoch 5/20 - loss: 0.3678 - accuracy: 0.8787 - val_loss: 0.3939 - val_accuracy: 0.8707
+Epoch 6/20 - loss: 0.3525 - accuracy: 0.8851 - val_loss: 0.3617 - val_accuracy: 0.8808
+Epoch 7/20 - loss: 0.3393 - accuracy: 0.8894 - val_loss: 0.3578 - val_accuracy: 0.8818
+Epoch 8/20 - loss: 0.3273 - accuracy: 0.8927 - val_loss: 0.3797 - val_accuracy: 0.8742
+Epoch 9/20 - loss: 0.3177 - accuracy: 0.8967 - val_loss: 0.3526 - val_accuracy: 0.8833
+Epoch 10/20 - loss: 0.3107 - accuracy: 0.8991 - val_loss: 0.3499 - val_accuracy: 0.8875
+Epoch 11/20 - loss: 0.3018 - accuracy: 0.9022 - val_loss: 0.3456 - val_accuracy: 0.8792
+Epoch 12/20 - loss: 0.2958 - accuracy: 0.9047 - val_loss: 0.3486 - val_accuracy: 0.8860
+Epoch 13/20 - loss: 0.2886 - accuracy: 0.9071 - val_loss: 0.3365 - val_accuracy: 0.8925
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 408, in compare_losses
+    history = train_model(args)
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 241, in train_model
+    y_pred = model.forward(X_batch)
+  File "K:\DA6401\da6401_assignment1\src\network.py", line 50, in forward
+    outputs = activation.forward(outputs)
+  File "K:\DA6401\da6401_assignment1\src\activation.py", line 10, in forward
+    return self._forward(inputs)
+  File "K:\DA6401\da6401_assignment1\src\activation.py", line 32, in _forward
+    self.outputs = 1.0 / (1.0 + np.exp(-inputs))
+KeyboardInterrupt

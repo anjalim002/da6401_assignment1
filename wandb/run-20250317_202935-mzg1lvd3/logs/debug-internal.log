@@ -1,0 +1,16 @@
+{"time":"2025-03-17T20:29:35.5547841+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_202935-mzg1lvd3\\logs\\debug-core.log"}
+{"time":"2025-03-17T20:29:35.6983703+05:30","level":"INFO","msg":"created new stream","id":"mzg1lvd3"}
+{"time":"2025-03-17T20:29:35.6989048+05:30","level":"INFO","msg":"stream: started","id":"mzg1lvd3"}
+{"time":"2025-03-17T20:29:35.6989048+05:30","level":"INFO","msg":"sender: started","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:29:35.6989048+05:30","level":"INFO","msg":"handler: started","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:29:35.6989048+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:29:36.2788758+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T20:32:48.2036069+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T20:32:48.2076322+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T20:32:49.302268+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1602594,"progress":"1.2KB/1.2KB"},{"desc":"uploading output.log","runtime_seconds":0.1456328,"progress":"2.4KB/2.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1456328,"progress":"752B/752B"}],"total_operations":3}}
+{"time":"2025-03-17T20:32:49.506806+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T20:32:49.8588893+05:30","level":"INFO","msg":"stream: closing","id":"mzg1lvd3"}
+{"time":"2025-03-17T20:32:49.8588893+05:30","level":"INFO","msg":"handler: closed","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:32:49.8588893+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:32:49.8588893+05:30","level":"INFO","msg":"sender: closed","stream_id":"mzg1lvd3"}
+{"time":"2025-03-17T20:32:49.8985715+05:30","level":"INFO","msg":"stream: closed","id":"mzg1lvd3"}

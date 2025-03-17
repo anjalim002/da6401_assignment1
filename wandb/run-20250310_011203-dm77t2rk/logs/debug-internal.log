@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:12:03.4903072+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_011203-dm77t2rk\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:12:03.6136069+05:30","level":"INFO","msg":"created new stream","id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:03.6137529+05:30","level":"INFO","msg":"stream: started","id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:03.6137529+05:30","level":"INFO","msg":"handler: started","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:03.6137529+05:30","level":"INFO","msg":"sender: started","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:03.6137529+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:03.9895949+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:12:50.947959+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:12:50.9486535+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:12:51.9645072+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.7424365,"progress":"743B/743B"},{"desc":"uploading output.log","runtime_seconds":0.7424365,"progress":"1.2KB/1.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3972948,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-10T01:12:52.5329424+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:12:52.8509806+05:30","level":"INFO","msg":"stream: closing","id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:52.8509806+05:30","level":"INFO","msg":"handler: closed","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:52.8509806+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:52.8509806+05:30","level":"INFO","msg":"sender: closed","stream_id":"dm77t2rk"}
+{"time":"2025-03-10T01:12:52.8681062+05:30","level":"INFO","msg":"stream: closed","id":"dm77t2rk"}

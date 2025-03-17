@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:02:56.9779104+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_190256-uai6u51i\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:02:57.1027363+05:30","level":"INFO","msg":"created new stream","id":"uai6u51i"}
+{"time":"2025-03-16T19:02:57.1027363+05:30","level":"INFO","msg":"stream: started","id":"uai6u51i"}
+{"time":"2025-03-16T19:02:57.1027363+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:02:57.1027363+05:30","level":"INFO","msg":"sender: started","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:02:57.1027363+05:30","level":"INFO","msg":"handler: started","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:02:57.5383689+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:03:02.178104+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:03:02.1807198+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:03:03.1924147+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:03:03.1972615+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.0038396}],"total_operations":1}}
+{"time":"2025-03-16T19:03:03.5334567+05:30","level":"INFO","msg":"stream: closing","id":"uai6u51i"}
+{"time":"2025-03-16T19:03:03.5339425+05:30","level":"INFO","msg":"sender: closed","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:03:03.5340992+05:30","level":"INFO","msg":"handler: closed","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:03:03.5340992+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uai6u51i"}
+{"time":"2025-03-16T19:03:03.5710424+05:30","level":"INFO","msg":"stream: closed","id":"uai6u51i"}

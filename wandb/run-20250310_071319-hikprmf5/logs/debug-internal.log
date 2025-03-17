@@ -1,0 +1,16 @@
+{"time":"2025-03-10T07:13:19.7962635+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_071319-hikprmf5\\logs\\debug-core.log"}
+{"time":"2025-03-10T07:13:19.9231792+05:30","level":"INFO","msg":"created new stream","id":"hikprmf5"}
+{"time":"2025-03-10T07:13:19.9231792+05:30","level":"INFO","msg":"stream: started","id":"hikprmf5"}
+{"time":"2025-03-10T07:13:19.9231792+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:13:19.9231792+05:30","level":"INFO","msg":"sender: started","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:13:19.9237441+05:30","level":"INFO","msg":"handler: started","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:13:20.2938811+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T07:15:07.4057671+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T07:15:07.4064568+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T07:15:08.4152733+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.421935,"progress":"744B/744B"},{"desc":"uploading output.log","runtime_seconds":0.421935,"progress":"1.2KB/1.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1228812,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-10T07:15:09.3244603+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T07:15:09.6519809+05:30","level":"INFO","msg":"stream: closing","id":"hikprmf5"}
+{"time":"2025-03-10T07:15:09.6519809+05:30","level":"INFO","msg":"handler: closed","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:15:09.6519809+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:15:09.6519809+05:30","level":"INFO","msg":"sender: closed","stream_id":"hikprmf5"}
+{"time":"2025-03-10T07:15:09.6660756+05:30","level":"INFO","msg":"stream: closed","id":"hikprmf5"}

@@ -1,0 +1,23 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 20, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.0001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'Xavier'}
+Epoch 1/20 - loss: 0.4481 - accuracy: 0.2094 - val_loss: 0.4471 - val_accuracy: 0.2387
+Epoch 2/20 - loss: 0.4483 - accuracy: 0.2342 - val_loss: 0.4491 - val_accuracy: 0.2363
+Epoch 3/20 - loss: 0.4495 - accuracy: 0.2338 - val_loss: 0.4498 - val_accuracy: 0.2365
+Epoch 4/20 - loss: 0.4499 - accuracy: 0.2383 - val_loss: 0.4500 - val_accuracy: 0.2463
+Epoch 5/20 - loss: 0.4500 - accuracy: 0.2233 - val_loss: 0.4500 - val_accuracy: 0.2038
+Epoch 6/20 - loss: 0.4500 - accuracy: 0.1372 - val_loss: 0.4500 - val_accuracy: 0.1107
+Epoch 7/20 - loss: 0.4500 - accuracy: 0.1068 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 8/20 - loss: 0.4500 - accuracy: 0.1051 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 9/20 - loss: 0.4500 - accuracy: 0.0993 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 10/20 - loss: 0.4500 - accuracy: 0.1007 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 11/20 - loss: 0.4500 - accuracy: 0.1003 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 12/20 - loss: 0.4500 - accuracy: 0.1003 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 13/20 - loss: 0.4500 - accuracy: 0.1007 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 14/20 - loss: 0.4500 - accuracy: 0.1001 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 15/20 - loss: 0.4500 - accuracy: 0.1007 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 16/20 - loss: 0.4500 - accuracy: 0.1007 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 17/20 - loss: 0.4500 - accuracy: 0.0980 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 18/20 - loss: 0.4500 - accuracy: 0.1001 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 19/20 - loss: 0.4500 - accuracy: 0.0993 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 20/20 - loss: 0.4500 - accuracy: 0.1002 - val_loss: 0.4500 - val_accuracy: 0.0933
+Test loss: 0.4500 - Test accuracy: 0.1000

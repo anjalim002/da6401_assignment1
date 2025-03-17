@@ -1,0 +1,18 @@
+{"time":"2025-03-16T22:19:45.203099+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_221945-qrnymgm8\\logs\\debug-core.log"}
+{"time":"2025-03-16T22:19:45.3303354+05:30","level":"INFO","msg":"created new stream","id":"qrnymgm8"}
+{"time":"2025-03-16T22:19:45.3303354+05:30","level":"INFO","msg":"stream: started","id":"qrnymgm8"}
+{"time":"2025-03-16T22:19:45.3303354+05:30","level":"INFO","msg":"handler: started","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:19:45.3308824+05:30","level":"INFO","msg":"sender: started","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:19:45.3303354+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:19:45.7113309+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:23:16.4444734+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/qrnymgm8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T22:23:18.7171347+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/qrnymgm8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T22:24:55.5881795+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:24:55.5914721+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:24:56.6403983+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1665995,"progress":"1.1KB/1.1KB"}],"total_operations":1}}
+{"time":"2025-03-16T22:24:56.851538+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:24:57.1802719+05:30","level":"INFO","msg":"stream: closing","id":"qrnymgm8"}
+{"time":"2025-03-16T22:24:57.1802719+05:30","level":"INFO","msg":"sender: closed","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:24:57.1802719+05:30","level":"INFO","msg":"handler: closed","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:24:57.1802719+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qrnymgm8"}
+{"time":"2025-03-16T22:24:57.2353801+05:30","level":"INFO","msg":"stream: closed","id":"qrnymgm8"}

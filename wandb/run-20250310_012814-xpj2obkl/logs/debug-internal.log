@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:28:14.4884646+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_012814-xpj2obkl\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:28:14.6159536+05:30","level":"INFO","msg":"created new stream","id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:14.6159536+05:30","level":"INFO","msg":"stream: started","id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:14.6165596+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:14.6165596+05:30","level":"INFO","msg":"handler: started","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:14.6165596+05:30","level":"INFO","msg":"sender: started","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:14.9865882+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:28:41.9301391+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:28:41.9308877+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:28:42.9179935+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:28:42.9480374+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 6-12, summary, console lines 7-11","runtime_seconds":0.0300439}],"total_operations":1}}
+{"time":"2025-03-10T01:28:43.2400772+05:30","level":"INFO","msg":"stream: closing","id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:43.2400772+05:30","level":"INFO","msg":"handler: closed","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:43.2400772+05:30","level":"INFO","msg":"sender: closed","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:43.2400772+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xpj2obkl"}
+{"time":"2025-03-10T01:28:43.2460847+05:30","level":"INFO","msg":"stream: closed","id":"xpj2obkl"}

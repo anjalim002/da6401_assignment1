@@ -1,0 +1,26 @@
+ Starting training with config: {'seed': 42, 'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'mean_squared_error', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'sweep': False}
+Epoch 1/20 - loss: 0.2105 - accuracy: 0.6768 - val_loss: 0.1279 - val_accuracy: 0.8162
+Epoch 2/20 - loss: 0.1159 - accuracy: 0.8405 - val_loss: 0.1050 - val_accuracy: 0.8543
+Epoch 3/20 - loss: 0.1010 - accuracy: 0.8615 - val_loss: 0.1017 - val_accuracy: 0.8605
+Epoch 4/20 - loss: 0.0945 - accuracy: 0.8707 - val_loss: 0.0935 - val_accuracy: 0.8695
+Epoch 5/20 - loss: 0.0890 - accuracy: 0.8787 - val_loss: 0.0921 - val_accuracy: 0.8748
+Epoch 6/20 - loss: 0.0856 - accuracy: 0.8839 - val_loss: 0.0868 - val_accuracy: 0.8803
+Epoch 7/20 - loss: 0.0823 - accuracy: 0.8884 - val_loss: 0.0866 - val_accuracy: 0.8795
+Epoch 8/20 - loss: 0.0795 - accuracy: 0.8923 - val_loss: 0.0855 - val_accuracy: 0.8822
+Epoch 9/20 - loss: 0.0774 - accuracy: 0.8948 - val_loss: 0.0840 - val_accuracy: 0.8852
+Epoch 10/20 - loss: 0.0750 - accuracy: 0.8979 - val_loss: 0.0817 - val_accuracy: 0.8885
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\exp.py", line 1003, in <module>
+  File "K:\DA6401\da6401_assignment1\exp.py", line 972, in main
+    #     print(f" - Weight initialization: {args.weight_init}")
+  File "K:\DA6401\da6401_assignment1\exp.py", line 540, in train_model
+    grad_output = loss_fn.backward(y_pred, y_batch)
+  File "K:\DA6401\da6401_assignment1\src\network.py", line 67, in backward
+    grad = activation.backward(grad)
+  File "K:\DA6401\da6401_assignment1\src\activation.py", line 13, in backward
+    return self._backward(grad_output)
+  File "K:\DA6401\da6401_assignment1\src\activation.py", line 79, in _backward
+    d_out[i] = np.diagflat(softmax_out) - np.dot(softmax_out, softmax_out.T)
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\site-packages\numpy\lib\_twodim_base_impl.py", line 368, in diagflat
+    return conv.wrap(res)
+KeyboardInterrupt

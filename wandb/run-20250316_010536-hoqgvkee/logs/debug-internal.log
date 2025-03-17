@@ -1,0 +1,16 @@
+{"time":"2025-03-16T01:05:36.2661819+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_010536-hoqgvkee\\logs\\debug-core.log"}
+{"time":"2025-03-16T01:05:36.3894066+05:30","level":"INFO","msg":"created new stream","id":"hoqgvkee"}
+{"time":"2025-03-16T01:05:36.3894066+05:30","level":"INFO","msg":"stream: started","id":"hoqgvkee"}
+{"time":"2025-03-16T01:05:36.3903949+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:05:36.3903949+05:30","level":"INFO","msg":"sender: started","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:05:36.3903949+05:30","level":"INFO","msg":"handler: started","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:05:36.7497808+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T01:07:53.9140045+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T01:07:53.9145058+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T01:07:54.9211231+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_16_db8c8fd829ea2ebdbdf3.png","runtime_seconds":1.3514836,"progress":"59.5KB/59.5KB"},{"desc":"uploading media\\images\\examples_17_75cf3f2d6042056b9d89.png","runtime_seconds":0.7273888,"progress":"28.9KB/28.9KB"},{"desc":"uploading output.log","runtime_seconds":0.4059808,"progress":"1.7KB/1.7KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4059808,"progress":"746B/746B"},{"desc":"uploading config.yaml","runtime_seconds":0.0970201,"progress":"1.1KB/1.1KB"}],"total_operations":5}}
+{"time":"2025-03-16T01:07:55.8039388+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T01:07:56.0969334+05:30","level":"INFO","msg":"stream: closing","id":"hoqgvkee"}
+{"time":"2025-03-16T01:07:56.0969334+05:30","level":"INFO","msg":"handler: closed","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:07:56.0969929+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:07:56.0969929+05:30","level":"INFO","msg":"sender: closed","stream_id":"hoqgvkee"}
+{"time":"2025-03-16T01:07:56.1171357+05:30","level":"INFO","msg":"stream: closed","id":"hoqgvkee"}

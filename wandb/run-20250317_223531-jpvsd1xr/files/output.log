@@ -1,0 +1,25 @@
+ Starting training with config: {'run_index': 1, 'optimizer': 'nadam', 'num_layers': 4, 'batch_size': 16, 'activation': 'tanh', 'hidden_size': 128, 'learning_rate': 0.0001, 'weight_init': 'Xavier', 'weight_decay': 0, 'epochs': 15, 'dataset': 'mnist', 'beta1': 0.9, 'beta2': 0.999, 'loss': 'cross_entropy', 'epsilon': 1e-08}
+Epoch 1/15 - loss: 0.4216 - accuracy: 0.8907 - val_loss: 0.2624 - val_accuracy: 0.9297
+Epoch 2/15 - loss: 0.2446 - accuracy: 0.9348 - val_loss: 0.2052 - val_accuracy: 0.9445
+Epoch 3/15 - loss: 0.1963 - accuracy: 0.9488 - val_loss: 0.1801 - val_accuracy: 0.9523
+Epoch 4/15 - loss: 0.1655 - accuracy: 0.9573 - val_loss: 0.1586 - val_accuracy: 0.9568
+Epoch 5/15 - loss: 0.1440 - accuracy: 0.9639 - val_loss: 0.1452 - val_accuracy: 0.9597
+Epoch 6/15 - loss: 0.1274 - accuracy: 0.9680 - val_loss: 0.1239 - val_accuracy: 0.9648
+Epoch 7/15 - loss: 0.1136 - accuracy: 0.9725 - val_loss: 0.1163 - val_accuracy: 0.9660
+Epoch 8/15 - loss: 0.1021 - accuracy: 0.9754 - val_loss: 0.1093 - val_accuracy: 0.9688
+Epoch 9/15 - loss: 0.0935 - accuracy: 0.9784 - val_loss: 0.1080 - val_accuracy: 0.9698
+Epoch 10/15 - loss: 0.0854 - accuracy: 0.9801 - val_loss: 0.0965 - val_accuracy: 0.9727
+Epoch 11/15 - loss: 0.0771 - accuracy: 0.9822 - val_loss: 0.0946 - val_accuracy: 0.9720
+Epoch 12/15 - loss: 0.0714 - accuracy: 0.9845 - val_loss: 0.0993 - val_accuracy: 0.9713
+Epoch 13/15 - loss: 0.0665 - accuracy: 0.9854 - val_loss: 0.0878 - val_accuracy: 0.9735
+Epoch 14/15 - loss: 0.0607 - accuracy: 0.9874 - val_loss: 0.0943 - val_accuracy: 0.9730
+Epoch 15/15 - loss: 0.0564 - accuracy: 0.9888 - val_loss: 0.0938 - val_accuracy: 0.9725
+Test loss: 0.0975 - Test accuracy: 0.9726
+Training completed! Configuration used:
+- Dataset: mnist
+- Model: 4 hidden layers with 128 neurons each
+- Activation: tanh
+- Optimizer: nadam
+- Learning rate: 0.0001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix.png

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T02:11:11.1324958+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_021111-7wfs3web\\logs\\debug-core.log"}
+{"time":"2025-03-10T02:11:11.2569558+05:30","level":"INFO","msg":"created new stream","id":"7wfs3web"}
+{"time":"2025-03-10T02:11:11.2569558+05:30","level":"INFO","msg":"stream: started","id":"7wfs3web"}
+{"time":"2025-03-10T02:11:11.2569558+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:11:11.2575057+05:30","level":"INFO","msg":"sender: started","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:11:11.2575716+05:30","level":"INFO","msg":"handler: started","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:11:11.658981+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T02:12:14.465939+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T02:12:14.4674479+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T02:12:15.4791392+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7170918,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4131816,"progress":"820B/820B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4130591,"progress":"722B/722B"},{"desc":"uploading config.yaml","runtime_seconds":0.1001989,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T02:12:16.3689194+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T02:12:16.6913561+05:30","level":"INFO","msg":"stream: closing","id":"7wfs3web"}
+{"time":"2025-03-10T02:12:16.6913561+05:30","level":"INFO","msg":"handler: closed","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:12:16.6913561+05:30","level":"INFO","msg":"sender: closed","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:12:16.6913561+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7wfs3web"}
+{"time":"2025-03-10T02:12:16.7005279+05:30","level":"INFO","msg":"stream: closed","id":"7wfs3web"}

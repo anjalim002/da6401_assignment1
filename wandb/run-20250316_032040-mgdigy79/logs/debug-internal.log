@@ -1,0 +1,16 @@
+{"time":"2025-03-16T03:20:40.3603048+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_032040-mgdigy79\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:20:40.488629+05:30","level":"INFO","msg":"created new stream","id":"mgdigy79"}
+{"time":"2025-03-16T03:20:40.488629+05:30","level":"INFO","msg":"stream: started","id":"mgdigy79"}
+{"time":"2025-03-16T03:20:40.488629+05:30","level":"INFO","msg":"sender: started","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:20:40.4896132+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:20:40.488629+05:30","level":"INFO","msg":"handler: started","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:20:41.0419757+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T03:25:45.9064851+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T03:25:45.9076048+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T03:25:46.9250608+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4066311,"progress":"1.7KB/1.7KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4066311,"progress":"744B/744B"},{"desc":"uploading config.yaml","runtime_seconds":0.1129039,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T03:25:47.8041894+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T03:25:48.1734715+05:30","level":"INFO","msg":"stream: closing","id":"mgdigy79"}
+{"time":"2025-03-16T03:25:48.1734715+05:30","level":"INFO","msg":"handler: closed","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:25:48.1734715+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:25:48.1734715+05:30","level":"INFO","msg":"sender: closed","stream_id":"mgdigy79"}
+{"time":"2025-03-16T03:25:48.1950775+05:30","level":"INFO","msg":"stream: closed","id":"mgdigy79"}

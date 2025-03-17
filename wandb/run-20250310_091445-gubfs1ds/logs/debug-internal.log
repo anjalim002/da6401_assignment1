@@ -1,0 +1,15 @@
+{"time":"2025-03-10T09:14:45.5553406+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_091445-gubfs1ds\\logs\\debug-core.log"}
+{"time":"2025-03-10T09:14:45.687646+05:30","level":"INFO","msg":"created new stream","id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:45.6879277+05:30","level":"INFO","msg":"stream: started","id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:45.6879277+05:30","level":"INFO","msg":"sender: started","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:45.6883608+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:45.6879277+05:30","level":"INFO","msg":"handler: started","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:46.1098571+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T09:14:51.6860084+05:30","level":"INFO","msg":"stream: closing","id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:51.6860084+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T09:14:51.6892615+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T09:14:52.7064261+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T09:14:53.0205856+05:30","level":"INFO","msg":"handler: closed","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:53.0205856+05:30","level":"INFO","msg":"sender: closed","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:53.0205856+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gubfs1ds"}
+{"time":"2025-03-10T09:14:53.0847661+05:30","level":"INFO","msg":"stream: closed","id":"gubfs1ds"}

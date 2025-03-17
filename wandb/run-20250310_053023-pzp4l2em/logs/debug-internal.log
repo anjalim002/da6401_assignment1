@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:30:23.7846292+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_053023-pzp4l2em\\logs\\debug-core.log"}
+{"time":"2025-03-10T05:30:23.9062499+05:30","level":"INFO","msg":"created new stream","id":"pzp4l2em"}
+{"time":"2025-03-10T05:30:23.9069346+05:30","level":"INFO","msg":"stream: started","id":"pzp4l2em"}
+{"time":"2025-03-10T05:30:23.9069346+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:30:23.9069346+05:30","level":"INFO","msg":"handler: started","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:30:23.9069346+05:30","level":"INFO","msg":"sender: started","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:30:24.2737459+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:31:42.4133328+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:31:42.4143066+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:31:43.4267878+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_11_64a8d19260da38f7a2f4.png","runtime_seconds":1.1895836,"progress":"60.0KB/60.0KB"},{"desc":"uploading media\\images\\examples_12_3b17a40d3c0003481150.png","runtime_seconds":0.7238394,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4106674,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4106674,"progress":"743B/743B"},{"desc":"uploading config.yaml","runtime_seconds":0.1089864,"progress":"1.1KB/1.1KB"}],"total_operations":5}}
+{"time":"2025-03-10T05:31:44.2975497+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:31:44.6112446+05:30","level":"INFO","msg":"stream: closing","id":"pzp4l2em"}
+{"time":"2025-03-10T05:31:44.6112446+05:30","level":"INFO","msg":"handler: closed","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:31:44.6112446+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:31:44.6112446+05:30","level":"INFO","msg":"sender: closed","stream_id":"pzp4l2em"}
+{"time":"2025-03-10T05:31:44.618515+05:30","level":"INFO","msg":"stream: closed","id":"pzp4l2em"}

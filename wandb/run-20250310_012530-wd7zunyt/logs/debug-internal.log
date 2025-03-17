@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:25:30.1455394+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_012530-wd7zunyt\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:25:30.2677663+05:30","level":"INFO","msg":"created new stream","id":"wd7zunyt"}
+{"time":"2025-03-10T01:25:30.2677663+05:30","level":"INFO","msg":"stream: started","id":"wd7zunyt"}
+{"time":"2025-03-10T01:25:30.2677663+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:25:30.2677663+05:30","level":"INFO","msg":"sender: started","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:25:30.2677663+05:30","level":"INFO","msg":"handler: started","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:25:30.6311876+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:27:44.5414008+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:27:44.5424445+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:27:45.5516403+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7208154,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.3987036,"progress":"820B/820B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3987036,"progress":"739B/739B"},{"desc":"uploading config.yaml","runtime_seconds":0.089193,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T01:27:46.4437982+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:27:46.9424687+05:30","level":"INFO","msg":"stream: closing","id":"wd7zunyt"}
+{"time":"2025-03-10T01:27:46.9424687+05:30","level":"INFO","msg":"handler: closed","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:27:46.9424687+05:30","level":"INFO","msg":"sender: closed","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:27:46.9424687+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wd7zunyt"}
+{"time":"2025-03-10T01:27:46.9585407+05:30","level":"INFO","msg":"stream: closed","id":"wd7zunyt"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-09T22:09:08.401746+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_220908-jiv6ahf8\\logs\\debug-core.log"}
+{"time":"2025-03-09T22:09:08.5375925+05:30","level":"INFO","msg":"created new stream","id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:08.5375925+05:30","level":"INFO","msg":"stream: started","id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:08.5375925+05:30","level":"INFO","msg":"handler: started","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:08.5381097+05:30","level":"INFO","msg":"sender: started","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:08.5381097+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:09.0751047+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:09:52.5840682+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T22:09:52.5851258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T22:09:53.5304004+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T22:09:53.599384+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-7, summary, console lines 4-6","runtime_seconds":0.0689835}],"total_operations":1}}
+{"time":"2025-03-09T22:09:53.8699705+05:30","level":"INFO","msg":"stream: closing","id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:53.8699705+05:30","level":"INFO","msg":"handler: closed","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:53.8699705+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:53.8699705+05:30","level":"INFO","msg":"sender: closed","stream_id":"jiv6ahf8"}
+{"time":"2025-03-09T22:09:53.9019458+05:30","level":"INFO","msg":"stream: closed","id":"jiv6ahf8"}

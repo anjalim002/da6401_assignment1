@@ -1,0 +1,16 @@
+{"time":"2025-03-16T19:37:13.5592215+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_193713-mt98g71a\\logs\\debug-core.log"}
+{"time":"2025-03-16T19:37:13.6794051+05:30","level":"INFO","msg":"created new stream","id":"mt98g71a"}
+{"time":"2025-03-16T19:37:13.6795484+05:30","level":"INFO","msg":"stream: started","id":"mt98g71a"}
+{"time":"2025-03-16T19:37:13.6796928+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:37:13.6796928+05:30","level":"INFO","msg":"sender: started","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:37:13.6796928+05:30","level":"INFO","msg":"handler: started","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:37:14.0236145+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T19:41:32.0970844+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T19:41:32.100683+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T19:41:33.1254336+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_22_75cf3f2d6042056b9d89.png","runtime_seconds":0.7657237,"progress":"28.9KB/28.9KB"},{"desc":"uploading output.log","runtime_seconds":0.385247,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.385247,"progress":"744B/744B"},{"desc":"uploading config.yaml","runtime_seconds":0.0649254,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-16T19:41:34.0440407+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T19:41:34.3717207+05:30","level":"INFO","msg":"stream: closing","id":"mt98g71a"}
+{"time":"2025-03-16T19:41:34.3719201+05:30","level":"INFO","msg":"sender: closed","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:41:34.3719201+05:30","level":"INFO","msg":"handler: closed","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:41:34.3724771+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mt98g71a"}
+{"time":"2025-03-16T19:41:34.4006786+05:30","level":"INFO","msg":"stream: closed","id":"mt98g71a"}

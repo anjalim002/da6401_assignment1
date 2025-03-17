@@ -1,0 +1,16 @@
+{"time":"2025-03-10T04:47:33.8765831+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_044733-4cn22isw\\logs\\debug-core.log"}
+{"time":"2025-03-10T04:47:34.0034539+05:30","level":"INFO","msg":"created new stream","id":"4cn22isw"}
+{"time":"2025-03-10T04:47:34.0036788+05:30","level":"INFO","msg":"stream: started","id":"4cn22isw"}
+{"time":"2025-03-10T04:47:34.0036788+05:30","level":"INFO","msg":"handler: started","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:47:34.0037737+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:47:34.0037737+05:30","level":"INFO","msg":"sender: started","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:47:34.3858621+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T04:48:37.466844+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T04:48:37.4677405+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T04:48:38.4833495+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.738771,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4291008,"progress":"825B/825B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4291008,"progress":"726B/726B"},{"desc":"uploading config.yaml","runtime_seconds":0.1116312,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T04:48:39.4490492+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T04:48:39.7802487+05:30","level":"INFO","msg":"stream: closing","id":"4cn22isw"}
+{"time":"2025-03-10T04:48:39.7802487+05:30","level":"INFO","msg":"handler: closed","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:48:39.7802487+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:48:39.7802487+05:30","level":"INFO","msg":"sender: closed","stream_id":"4cn22isw"}
+{"time":"2025-03-10T04:48:39.7843584+05:30","level":"INFO","msg":"stream: closed","id":"4cn22isw"}

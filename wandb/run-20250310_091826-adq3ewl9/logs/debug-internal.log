@@ -1,0 +1,9 @@
+{"time":"2025-03-10T09:18:26.1221867+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_091826-adq3ewl9\\logs\\debug-core.log"}
+{"time":"2025-03-10T09:18:26.2496278+05:30","level":"INFO","msg":"created new stream","id":"adq3ewl9"}
+{"time":"2025-03-10T09:18:26.2501972+05:30","level":"INFO","msg":"stream: started","id":"adq3ewl9"}
+{"time":"2025-03-10T09:18:26.2501972+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"adq3ewl9"}
+{"time":"2025-03-10T09:18:26.2501972+05:30","level":"INFO","msg":"sender: started","stream_id":"adq3ewl9"}
+{"time":"2025-03-10T09:18:26.2506241+05:30","level":"INFO","msg":"handler: started","stream_id":"adq3ewl9"}
+{"time":"2025-03-10T09:18:26.6846964+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T09:24:27.7421303+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/fashion-mnist-visualization/adq3ewl9/file_stream"}
+{"time":"2025-03-10T09:24:27.7427307+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/da24m002-indian-institute-of-technology-madras/fashion-mnist-visualization/adq3ewl9/file_stream: {\"error\":\"project da24m002-indian-institute-of-technology-madras/fashion-mnist-visualization not found while streaming file\"}"}

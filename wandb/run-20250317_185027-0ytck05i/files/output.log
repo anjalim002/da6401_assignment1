@@ -1,0 +1,9 @@
+ Starting training with config: {'wandb_project': 'da6401_a1_comparison', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'mse', 'optimizer': 'momentum', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'tanh', 'compare': True}
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\cemse.py", line 493, in run_comparison
+    mse_results = train_model(args)
+  File "K:\DA6401\da6401_assignment1\cemse.py", line 196, in train_model
+    loss_fn = get_loss(config.loss)
+  File "K:\DA6401\da6401_assignment1\src\losses.py", line 104, in get_loss
+    raise ValueError(f"Loss {name} not supported")
+ValueError: Loss mse not supported

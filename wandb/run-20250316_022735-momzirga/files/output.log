@@ -1,0 +1,17 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 32, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 15, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'rmsprop', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/15 - loss: 0.1463 - accuracy: 0.7959 - val_loss: 0.1185 - val_accuracy: 0.8380
+Epoch 2/15 - loss: 0.1106 - accuracy: 0.8476 - val_loss: 0.1179 - val_accuracy: 0.8367
+Epoch 3/15 - loss: 0.1006 - accuracy: 0.8612 - val_loss: 0.1087 - val_accuracy: 0.8507
+Epoch 4/15 - loss: 0.0948 - accuracy: 0.8690 - val_loss: 0.1149 - val_accuracy: 0.8420
+Epoch 5/15 - loss: 0.0910 - accuracy: 0.8747 - val_loss: 0.1015 - val_accuracy: 0.8600
+Epoch 6/15 - loss: 0.0881 - accuracy: 0.8792 - val_loss: 0.0975 - val_accuracy: 0.8657
+Epoch 7/15 - loss: 0.0865 - accuracy: 0.8818 - val_loss: 0.0939 - val_accuracy: 0.8667
+Epoch 8/15 - loss: 0.0841 - accuracy: 0.8854 - val_loss: 0.0913 - val_accuracy: 0.8752
+Epoch 9/15 - loss: 0.0824 - accuracy: 0.8868 - val_loss: 0.0943 - val_accuracy: 0.8735
+Epoch 10/15 - loss: 0.0803 - accuracy: 0.8908 - val_loss: 0.0988 - val_accuracy: 0.8685
+Epoch 11/15 - loss: 0.0804 - accuracy: 0.8901 - val_loss: 0.0883 - val_accuracy: 0.8780
+Epoch 12/15 - loss: 0.0785 - accuracy: 0.8938 - val_loss: 0.0901 - val_accuracy: 0.8775
+Epoch 13/15 - loss: 0.0777 - accuracy: 0.8953 - val_loss: 0.0890 - val_accuracy: 0.8805
+Epoch 14/15 - loss: 0.0761 - accuracy: 0.8978 - val_loss: 0.0899 - val_accuracy: 0.8803
+Epoch 15/15 - loss: 0.0753 - accuracy: 0.8990 - val_loss: 0.0930 - val_accuracy: 0.8728
+Test loss: 0.0988 - Test accuracy: 0.8656

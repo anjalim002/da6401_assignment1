@@ -1,0 +1,16 @@
+{"time":"2025-03-09T10:46:12.7081053+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_104612-gnypp59s\\logs\\debug-core.log"}
+{"time":"2025-03-09T10:46:12.8384466+05:30","level":"INFO","msg":"created new stream","id":"gnypp59s"}
+{"time":"2025-03-09T10:46:12.8384466+05:30","level":"INFO","msg":"stream: started","id":"gnypp59s"}
+{"time":"2025-03-09T10:46:12.8390737+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:12.8391543+05:30","level":"INFO","msg":"sender: started","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:12.8392384+05:30","level":"INFO","msg":"handler: started","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:13.2268785+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T10:46:13.9847187+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T10:46:13.9852269+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T10:46:15.0157676+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":1.0644459,"progress":"673B/673B"},{"desc":"uploading output.log","runtime_seconds":0.4081781,"progress":"278B/278B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4081781,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.0814926,"progress":"943B/943B"}],"total_operations":4}}
+{"time":"2025-03-09T10:46:15.9199224+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T10:46:16.2725084+05:30","level":"INFO","msg":"stream: closing","id":"gnypp59s"}
+{"time":"2025-03-09T10:46:16.2725084+05:30","level":"INFO","msg":"handler: closed","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:16.2725084+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:16.2725084+05:30","level":"INFO","msg":"sender: closed","stream_id":"gnypp59s"}
+{"time":"2025-03-09T10:46:16.3126957+05:30","level":"INFO","msg":"stream: closed","id":"gnypp59s"}

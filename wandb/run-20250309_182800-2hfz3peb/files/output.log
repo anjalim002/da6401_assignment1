@@ -1,0 +1,11 @@
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 4, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'random'}
+Epoch 1/5 - loss: 0.4500 - accuracy: 0.0988 - val_loss: 0.4500 - val_accuracy: 0.0983
+Epoch 2/5 - loss: 0.4500 - accuracy: 0.1000 - val_loss: 0.4500 - val_accuracy: 0.1072
+Epoch 3/5 - loss: 0.4500 - accuracy: 0.0999 - val_loss: 0.4500 - val_accuracy: 0.1013
+Epoch 4/5 - loss: 0.4500 - accuracy: 0.0990 - val_loss: 0.4500 - val_accuracy: 0.1013
+Epoch 5/5 - loss: 0.4500 - accuracy: 0.1020 - val_loss: 0.4500 - val_accuracy: 0.0983
+Test loss: 0.4500 - Test accuracy: 0.1000
+K:\DA6401\da6401_assignment1\train.py:117: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  plt.figure(figsize=(10, 8))
+K:\DA6401\da6401_assignment1\train.py:269: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig, axs = plt.subplots(2, 5, figsize=(12, 6))

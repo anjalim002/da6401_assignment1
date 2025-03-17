@@ -1,0 +1,24 @@
+{"time":"2025-03-16T15:08:03.1073483+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_150803-7fy19lgr\\logs\\debug-core.log"}
+{"time":"2025-03-16T15:08:03.2261007+05:30","level":"INFO","msg":"created new stream","id":"7fy19lgr"}
+{"time":"2025-03-16T15:08:03.2261007+05:30","level":"INFO","msg":"stream: started","id":"7fy19lgr"}
+{"time":"2025-03-16T15:08:03.2261007+05:30","level":"INFO","msg":"handler: started","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:08:03.2261007+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:08:03.2261007+05:30","level":"INFO","msg":"sender: started","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:08:03.5712599+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T15:08:08.8796257+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.22.63.219:65133->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-16T15:08:08.8796257+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.22.63.219:65133->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-16T15:08:08.8801262+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.22.63.219:65133->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-16T15:08:08.8801262+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.22.63.219:65133->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-03-16T15:08:10.9427264+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T15:08:11.1735615+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T15:08:11.1762061+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T15:08:11.264272+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T15:09:44.065675+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T15:09:44.0661757+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T15:09:45.0856547+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1382433,"progress":"1.1KB/1.1KB"}],"total_operations":1}}
+{"time":"2025-03-16T15:09:45.2901793+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T15:09:45.6123781+05:30","level":"INFO","msg":"stream: closing","id":"7fy19lgr"}
+{"time":"2025-03-16T15:09:45.6123781+05:30","level":"INFO","msg":"handler: closed","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:09:45.6123781+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:09:45.6123781+05:30","level":"INFO","msg":"sender: closed","stream_id":"7fy19lgr"}
+{"time":"2025-03-16T15:09:45.6219251+05:30","level":"INFO","msg":"stream: closed","id":"7fy19lgr"}

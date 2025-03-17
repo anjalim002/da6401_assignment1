@@ -1,0 +1,1 @@
+🔄 Starting training with config: {'activation': 'sigmoid', 'batch_size': 16, 'dataset': 'fashion_mnist', 'epochs': 10, 'hidden_size': 32, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'num_layers': 3, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'random'}

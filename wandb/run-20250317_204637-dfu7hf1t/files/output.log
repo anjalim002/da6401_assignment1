@@ -1,0 +1,12 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'mean_squared_error', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'sweep': False, 'compare_losses': True}
+ Using loss function: mean_squared_error
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 1054, in <module>
+    main()
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 1024, in main
+    mse_run = train_model(args, loss_name="mean_squared_error")
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 825, in train_model
+    loss_fn = get_loss_updated(current_loss)
+  File "K:\DA6401\da6401_assignment1\cemse2.py", line 635, in get_loss_updated
+    raise ValueError(f"Unknown loss function: {loss_name}")
+ValueError: Unknown loss function: mean_squared_error

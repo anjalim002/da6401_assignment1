@@ -1,0 +1,17 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 32, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 128, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'nadam', 'weight_decay': 0.0005, 'weight_init': 'random'}
+Epoch 1/10 - loss: 2.3028 - accuracy: 0.1000 - val_loss: 2.3029 - val_accuracy: 0.0933
+Epoch 2/10 - loss: 2.3028 - accuracy: 0.0984 - val_loss: 2.3026 - val_accuracy: 0.0990
+Epoch 3/10 - loss: 2.3028 - accuracy: 0.0992 - val_loss: 2.3025 - val_accuracy: 0.1028
+Epoch 4/10 - loss: 2.1292 - accuracy: 0.1629 - val_loss: 0.8471 - val_accuracy: 0.6913
+Epoch 5/10 - loss: 0.6604 - accuracy: 0.7701 - val_loss: 0.5094 - val_accuracy: 0.8423
+Epoch 6/10 - loss: 0.5114 - accuracy: 0.8330 - val_loss: 0.4933 - val_accuracy: 0.8420
+Epoch 7/10 - loss: 0.4748 - accuracy: 0.8452 - val_loss: 0.4553 - val_accuracy: 0.8552
+Epoch 8/10 - loss: 0.4562 - accuracy: 0.8527 - val_loss: 0.4380 - val_accuracy: 0.8553
+Epoch 9/10 - loss: 0.4440 - accuracy: 0.8553 - val_loss: 0.4155 - val_accuracy: 0.8660
+Epoch 10/10 - loss: 0.4361 - accuracy: 0.8598 - val_loss: 0.4226 - val_accuracy: 0.8607
+Test loss: 0.4582 - Test accuracy: 0.8482
+K:\DA6401\da6401_assignment1\train.py:117: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  plt.figure(figsize=(10, 8))
+K:\DA6401\da6401_assignment1\train.py:269: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig, axs = plt.subplots(2, 5, figsize=(12, 6))

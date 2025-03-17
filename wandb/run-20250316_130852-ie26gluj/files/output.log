@@ -1,0 +1,22 @@
+🔄 Starting training with config: {'activation': 'sigmoid', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 20, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 4, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/20 - loss: 2.1708 - accuracy: 0.1971 - val_loss: 1.9000 - val_accuracy: 0.3510
+Epoch 2/20 - loss: 1.5847 - accuracy: 0.4807 - val_loss: 1.2973 - val_accuracy: 0.5577
+Epoch 3/20 - loss: 1.1459 - accuracy: 0.6191 - val_loss: 1.0328 - val_accuracy: 0.6712
+Epoch 4/20 - loss: 0.9606 - accuracy: 0.6914 - val_loss: 0.9024 - val_accuracy: 0.7045
+Epoch 5/20 - loss: 0.8415 - accuracy: 0.7432 - val_loss: 0.7890 - val_accuracy: 0.7783
+Epoch 6/20 - loss: 0.7482 - accuracy: 0.7819 - val_loss: 0.7182 - val_accuracy: 0.7923
+Epoch 7/20 - loss: 0.6917 - accuracy: 0.7900 - val_loss: 0.6737 - val_accuracy: 0.7993
+Epoch 8/20 - loss: 0.6542 - accuracy: 0.7971 - val_loss: 0.6458 - val_accuracy: 0.8042
+Epoch 9/20 - loss: 0.6278 - accuracy: 0.8009 - val_loss: 0.6211 - val_accuracy: 0.8058
+Epoch 10/20 - loss: 0.6082 - accuracy: 0.8062 - val_loss: 0.6052 - val_accuracy: 0.8130
+Epoch 11/20 - loss: 0.5922 - accuracy: 0.8132 - val_loss: 0.5945 - val_accuracy: 0.8132
+Epoch 12/20 - loss: 0.5798 - accuracy: 0.8175 - val_loss: 0.5860 - val_accuracy: 0.8162
+Epoch 13/20 - loss: 0.5698 - accuracy: 0.8227 - val_loss: 0.5749 - val_accuracy: 0.8177
+Epoch 14/20 - loss: 0.5607 - accuracy: 0.8259 - val_loss: 0.5697 - val_accuracy: 0.8232
+Epoch 15/20 - loss: 0.5523 - accuracy: 0.8305 - val_loss: 0.5638 - val_accuracy: 0.8268
+Epoch 16/20 - loss: 0.5450 - accuracy: 0.8337 - val_loss: 0.5598 - val_accuracy: 0.8267
+Epoch 17/20 - loss: 0.5384 - accuracy: 0.8365 - val_loss: 0.5496 - val_accuracy: 0.8285
+Epoch 18/20 - loss: 0.5321 - accuracy: 0.8393 - val_loss: 0.5473 - val_accuracy: 0.8295
+Epoch 19/20 - loss: 0.5274 - accuracy: 0.8427 - val_loss: 0.5444 - val_accuracy: 0.8318
+Epoch 20/20 - loss: 0.5225 - accuracy: 0.8447 - val_loss: 0.5400 - val_accuracy: 0.8332
+Test loss: 0.5781 - Test accuracy: 0.8274

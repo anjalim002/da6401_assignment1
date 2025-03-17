@@ -1,0 +1,36 @@
+2025-03-08 12:45:30,370 INFO    Thread-8 (_run_job):10980 [wandb_init.py:setup_run_log_directory():647] Logging user logs to K:\DA6401\da6401_assignment1\wandb\run-20250308_124530-b9remrom\logs\debug.log
+2025-03-08 12:45:30,371 INFO    Thread-8 (_run_job):10980 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to K:\DA6401\da6401_assignment1\wandb\run-20250308_124530-b9remrom\logs\debug-internal.log
+2025-03-08 12:45:30,371 INFO    Thread-8 (_run_job):10980 [wandb_init.py:init():761] calling init triggers
+2025-03-08 12:45:30,371 INFO    Thread-8 (_run_job):10980 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'ReLU', 'batch_size': 32, 'dataset': 'fashion_mnist', 'epochs': 10, 'hidden_size': 128, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'num_layers': 3, 'optimizer': 'nag', 'weight_decay': 0, 'weight_init': 'random'}
+config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 10, 'batch_size': 32, 'loss': 'cross_entropy', 'optimizer': 'nag', 'learning_rate': 0.0001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0, 'weight_init': 'random', 'num_layers': 3, 'hidden_size': 128, 'activation': 'ReLU', 'sweep': True, '_wandb': {}}
+2025-03-08 12:45:30,371 INFO    Thread-8 (_run_job):10980 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-08 12:45:30,938 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_finish():2112] finishing run da24m002-indian-institute-of-technology-madras/da6401_a1/b9remrom
+2025-03-08 12:45:30,939 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 1
+2025-03-08 12:45:30,940 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_restore():2324] restore
+2025-03-08 12:45:30,941 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_restore():2330] restore done
+2025-03-08 12:45:33,459 INFO    MsgRouterThr:10980 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-08 12:45:33,461 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-08 12:45:33,461 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-08 12:45:33,462 INFO    Thread-8 (_run_job):10980 [wandb_run.py:_footer_sync_info():3919] logging synced files
+2025-03-08 12:45:33,482 ERROR   MainThread:10980 [pyagent.py:_run_jobs_from_queue():234] Run b9remrom errored:
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\site-packages\wandb\sdk\wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\site-packages\wandb\sdk\wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+KeyError: 'momentum'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\site-packages\wandb\agents\pyagent.py", line 306, in _run_job
+    self._function()
+  File "K:\DA6401\da6401_assignment1\train.py", line 294, in sweep_train
+    train_model(args)
+  File "K:\DA6401\da6401_assignment1\train.py", line 168, in train_model
+    optimizer_params['momentum'] = config.momentum
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\site-packages\wandb\sdk\wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'momentum'
+
+2025-03-08 12:45:33,547 ERROR   MainThread:10980 [pyagent.py:_run_jobs_from_queue():245] Detected 3 failed runs in the first 60 seconds, killing sweep.

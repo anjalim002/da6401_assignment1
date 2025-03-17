@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:06:39.9784535+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_050639-nuc5y44h\\logs\\debug-core.log"}
+{"time":"2025-03-10T05:06:40.1014548+05:30","level":"INFO","msg":"created new stream","id":"nuc5y44h"}
+{"time":"2025-03-10T05:06:40.1014548+05:30","level":"INFO","msg":"stream: started","id":"nuc5y44h"}
+{"time":"2025-03-10T05:06:40.1014548+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:06:40.1014548+05:30","level":"INFO","msg":"handler: started","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:06:40.1014548+05:30","level":"INFO","msg":"sender: started","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:06:40.4734138+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:07:23.7010552+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:07:23.7018067+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:07:24.7121884+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_6_2c35dc7fa72da0ea7b58.png","runtime_seconds":1.1833624,"progress":"59.4KB/59.4KB"},{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7292254,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.7292254,"progress":"824B/824B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7292254,"progress":"726B/726B"},{"desc":"uploading config.yaml","runtime_seconds":0.3562142,"progress":"1.1KB/1.1KB"}],"total_operations":5}}
+{"time":"2025-03-10T05:07:25.2868751+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:07:25.6555083+05:30","level":"INFO","msg":"stream: closing","id":"nuc5y44h"}
+{"time":"2025-03-10T05:07:25.6555083+05:30","level":"INFO","msg":"handler: closed","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:07:25.6555083+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:07:25.6555083+05:30","level":"INFO","msg":"sender: closed","stream_id":"nuc5y44h"}
+{"time":"2025-03-10T05:07:25.6613205+05:30","level":"INFO","msg":"stream: closed","id":"nuc5y44h"}

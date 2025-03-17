@@ -1,0 +1,24 @@
+2025-03-17 18:30:13,152 INFO    MainThread:26476 [wandb_init.py:setup_run_log_directory():647] Logging user logs to K:\DA6401\da6401_assignment1\wandb\run-20250317_183013-1ds7h1vb\logs\debug.log
+2025-03-17 18:30:13,153 INFO    MainThread:26476 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to K:\DA6401\da6401_assignment1\wandb\run-20250317_183013-1ds7h1vb\logs\debug-internal.log
+2025-03-17 18:30:13,153 INFO    MainThread:26476 [wandb_init.py:init():761] calling init triggers
+2025-03-17 18:30:13,153 INFO    MainThread:26476 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-17 18:30:13,153 INFO    MainThread:26476 [wandb_init.py:init():784] starting backend
+2025-03-17 18:30:13,154 INFO    MainThread:26476 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 18:30:13,169 INFO    MainThread:26476 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-17 18:30:13,170 INFO    MainThread:26476 [wandb_init.py:init():798] backend started and connected
+2025-03-17 18:30:13,174 INFO    MainThread:26476 [wandb_init.py:init():891] updated telemetry
+2025-03-17 18:30:13,174 INFO    MainThread:26476 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 18:30:13,734 INFO    MainThread:26476 [wandb_init.py:init():990] starting run threads in backend
+2025-03-17 18:30:14,151 INFO    MainThread:26476 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-17 18:30:14,151 INFO    MainThread:26476 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 18:30:14,152 INFO    MainThread:26476 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 18:30:14,152 INFO    MainThread:26476 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-17 18:30:14,153 INFO    MainThread:26476 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 18:30:14,348 INFO    MainThread:26476 [wandb_run.py:_finish():2112] finishing run da24m002-indian-institute-of-technology-madras/da6401_a1/1ds7h1vb
+2025-03-17 18:30:14,348 INFO    MainThread:26476 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-17 18:30:14,348 INFO    MainThread:26476 [wandb_run.py:_restore():2322] restore
+2025-03-17 18:30:14,349 INFO    MainThread:26476 [wandb_run.py:_restore():2328] restore done
+2025-03-17 18:30:17,105 INFO    MainThread:26476 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-17 18:30:17,105 INFO    MainThread:26476 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-17 18:30:17,105 INFO    MainThread:26476 [wandb_run.py:_footer_sync_info():3917] logging synced files

@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:27:10.7179039+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_202710-7mmahoub\\logs\\debug-core.log"}
+{"time":"2025-03-09T20:27:10.8428009+05:30","level":"INFO","msg":"created new stream","id":"7mmahoub"}
+{"time":"2025-03-09T20:27:10.8428009+05:30","level":"INFO","msg":"stream: started","id":"7mmahoub"}
+{"time":"2025-03-09T20:27:10.8428009+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:10.8428009+05:30","level":"INFO","msg":"sender: started","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:10.8428009+05:30","level":"INFO","msg":"handler: started","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:11.1900992+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:27:36.0353712+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:27:36.0360798+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:27:37.0461704+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_6_f64e526b4aedd8c8fa98.png","runtime_seconds":1.3500955000000001,"progress":"63.5KB/63.5KB"},{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7433621,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.7433621,"progress":"822B/822B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7433621,"progress":"737B/737B"},{"desc":"uploading config.yaml","runtime_seconds":0.3821847,"progress":"1.1KB/1.1KB"}],"total_operations":5}}
+{"time":"2025-03-09T20:27:37.6409081+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:27:37.9924059+05:30","level":"INFO","msg":"stream: closing","id":"7mmahoub"}
+{"time":"2025-03-09T20:27:37.9924059+05:30","level":"INFO","msg":"handler: closed","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:37.9924059+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:37.9924059+05:30","level":"INFO","msg":"sender: closed","stream_id":"7mmahoub"}
+{"time":"2025-03-09T20:27:38.0157989+05:30","level":"INFO","msg":"stream: closed","id":"7mmahoub"}

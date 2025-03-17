@@ -1,0 +1,22 @@
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 32, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 20, 'epsilon': 1e-08, 'hidden_size': 128, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 4, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/20 - loss: 0.6396 - accuracy: 0.7953 - val_loss: 0.4617 - val_accuracy: 0.8500
+Epoch 2/20 - loss: 0.4449 - accuracy: 0.8496 - val_loss: 0.4281 - val_accuracy: 0.8575
+Epoch 3/20 - loss: 0.4092 - accuracy: 0.8628 - val_loss: 0.4096 - val_accuracy: 0.8613
+Epoch 4/20 - loss: 0.3885 - accuracy: 0.8696 - val_loss: 0.3812 - val_accuracy: 0.8700
+Epoch 5/20 - loss: 0.3743 - accuracy: 0.8745 - val_loss: 0.3763 - val_accuracy: 0.8738
+Epoch 6/20 - loss: 0.3623 - accuracy: 0.8797 - val_loss: 0.3821 - val_accuracy: 0.8713
+Epoch 7/20 - loss: 0.3510 - accuracy: 0.8832 - val_loss: 0.3700 - val_accuracy: 0.8743
+Epoch 8/20 - loss: 0.3440 - accuracy: 0.8865 - val_loss: 0.3583 - val_accuracy: 0.8775
+Epoch 9/20 - loss: 0.3358 - accuracy: 0.8885 - val_loss: 0.3563 - val_accuracy: 0.8783
+Epoch 10/20 - loss: 0.3304 - accuracy: 0.8916 - val_loss: 0.3611 - val_accuracy: 0.8793
+Epoch 11/20 - loss: 0.3221 - accuracy: 0.8945 - val_loss: 0.3507 - val_accuracy: 0.8808
+Epoch 12/20 - loss: 0.3169 - accuracy: 0.8966 - val_loss: 0.3621 - val_accuracy: 0.8773
+Epoch 13/20 - loss: 0.3103 - accuracy: 0.8990 - val_loss: 0.3541 - val_accuracy: 0.8777
+Epoch 14/20 - loss: 0.3060 - accuracy: 0.9016 - val_loss: 0.3674 - val_accuracy: 0.8752
+Epoch 15/20 - loss: 0.3007 - accuracy: 0.9029 - val_loss: 0.3574 - val_accuracy: 0.8792
+Epoch 16/20 - loss: 0.2969 - accuracy: 0.9054 - val_loss: 0.3410 - val_accuracy: 0.8837
+Epoch 17/20 - loss: 0.2924 - accuracy: 0.9064 - val_loss: 0.3338 - val_accuracy: 0.8833
+Epoch 18/20 - loss: 0.2876 - accuracy: 0.9092 - val_loss: 0.3335 - val_accuracy: 0.8887
+Epoch 19/20 - loss: 0.2833 - accuracy: 0.9109 - val_loss: 0.3331 - val_accuracy: 0.8857
+Epoch 20/20 - loss: 0.2816 - accuracy: 0.9107 - val_loss: 0.3497 - val_accuracy: 0.8797
+Test loss: 0.3752 - Test accuracy: 0.8732

@@ -1,0 +1,7 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'Xavier'}
+Epoch 1/5 - loss: 2.2620 - accuracy: 0.1873 - val_loss: 2.2284 - val_accuracy: 0.2530
+Epoch 2/5 - loss: 2.1934 - accuracy: 0.2794 - val_loss: 2.1505 - val_accuracy: 0.3280
+Epoch 3/5 - loss: 2.0968 - accuracy: 0.3583 - val_loss: 2.0228 - val_accuracy: 0.3993
+Epoch 4/5 - loss: 1.9164 - accuracy: 0.4224 - val_loss: 1.7859 - val_accuracy: 0.4687
+Epoch 5/5 - loss: 1.6482 - accuracy: 0.5342 - val_loss: 1.5026 - val_accuracy: 0.5540
+Test loss: 1.5148 - Test accuracy: 0.5490

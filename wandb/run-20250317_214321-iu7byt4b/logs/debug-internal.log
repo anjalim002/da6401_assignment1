@@ -1,0 +1,16 @@
+{"time":"2025-03-17T21:43:21.3245863+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_214321-iu7byt4b\\logs\\debug-core.log"}
+{"time":"2025-03-17T21:43:21.450778+05:30","level":"INFO","msg":"created new stream","id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:21.4509855+05:30","level":"INFO","msg":"stream: started","id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:21.4509855+05:30","level":"INFO","msg":"handler: started","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:21.4509855+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:21.4509855+05:30","level":"INFO","msg":"sender: started","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:21.9512108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:43:25.2201751+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:43:25.2212732+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:43:26.2244211+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\training_accuracy_comparison_1_9e2d1ef8ed87d55d2b33.png","runtime_seconds":0.660249,"progress":"96.0KB/103.9KB"},{"desc":"uploading media\\images\\validation_accuracy_comparison_1_95b666cb68ad7255afd6.png","runtime_seconds":0.660249,"progress":"80.0KB/104.3KB"},{"desc":"uploading media\\images\\training_loss_comparison_1_f49a598e1eddef9d6b10.png","runtime_seconds":0.660249,"progress":"80.0KB/108.9KB"},{"desc":"uploading media\\images\\validation_loss_comparison_1_68a952075e69695ab081.png","runtime_seconds":0.660249,"progress":"115.5KB/115.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3062925,"progress":"1.2KB/1.2KB"}],"total_operations":5}}
+{"time":"2025-03-17T21:43:27.1573093+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:43:27.890461+05:30","level":"INFO","msg":"stream: closing","id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:27.890461+05:30","level":"INFO","msg":"handler: closed","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:27.890461+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:27.890461+05:30","level":"INFO","msg":"sender: closed","stream_id":"iu7byt4b"}
+{"time":"2025-03-17T21:43:27.9239118+05:30","level":"INFO","msg":"stream: closed","id":"iu7byt4b"}

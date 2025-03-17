@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:31:41.2340458+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_203141-4v86pui2\\logs\\debug-core.log"}
+{"time":"2025-03-09T20:31:41.3571563+05:30","level":"INFO","msg":"created new stream","id":"4v86pui2"}
+{"time":"2025-03-09T20:31:41.3571563+05:30","level":"INFO","msg":"stream: started","id":"4v86pui2"}
+{"time":"2025-03-09T20:31:41.3571563+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:31:41.3571563+05:30","level":"INFO","msg":"sender: started","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:31:41.3571563+05:30","level":"INFO","msg":"handler: started","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:31:41.7482863+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:32:24.3276148+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:32:24.3284572+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:32:25.2980412+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:32:25.3387594+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 7-12, summary, console lines 8-11","runtime_seconds":0.040382}],"total_operations":1}}
+{"time":"2025-03-09T20:32:25.6149502+05:30","level":"INFO","msg":"stream: closing","id":"4v86pui2"}
+{"time":"2025-03-09T20:32:25.6149502+05:30","level":"INFO","msg":"handler: closed","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:32:25.6149502+05:30","level":"INFO","msg":"sender: closed","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:32:25.6149502+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4v86pui2"}
+{"time":"2025-03-09T20:32:25.6227731+05:30","level":"INFO","msg":"stream: closed","id":"4v86pui2"}

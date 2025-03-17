@@ -1,3 +1,5 @@
+project: da6401_a1
+entity: da24m002-indian-institute-of-technology-madras
 program: train.py
 method: bayes
 metric:
@@ -5,7 +7,7 @@ metric:
   goal: maximize
 parameters:
   epochs:
-    values: [5, 10]
+    values: [10,15,20]
   batch_size:
     values: [16, 32, 64]
   num_layers:
@@ -23,6 +25,6 @@ parameters:
   activation:
     values: ['sigmoid', 'tanh', 'ReLU']
   loss:
-    values: ['cross_entropy', 'mean_squared_error']
+    values: ['cross_entropy','mean_squared_error']
   dataset:
     value: 'fashion_mnist'

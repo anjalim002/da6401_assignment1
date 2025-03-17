@@ -1,0 +1,1 @@
+ Starting training with config: {'run_index': 1, 'optimizer': 'nadam', 'num_layers': 4, 'batch_size': 16, 'activation': 'tanh', 'hidden_size': 128, 'learning_rate': 0.0001, 'weight_init': 'Xavier', 'weight_decay': 0, 'epochs': 15, 'dataset': 'mnist', 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08}

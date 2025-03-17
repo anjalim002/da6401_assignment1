@@ -1,0 +1,18 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'cross_entropy', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'sweep': False}
+Epoch 1/20 - loss: 0.9101 - accuracy: 0.6767 - val_loss: 0.5171 - val_accuracy: 0.8345
+Epoch 2/20 - loss: 0.4813 - accuracy: 0.8436 - val_loss: 0.4847 - val_accuracy: 0.8392
+Epoch 3/20 - loss: 0.4327 - accuracy: 0.8587 - val_loss: 0.4283 - val_accuracy: 0.8593
+Epoch 4/20 - loss: 0.4021 - accuracy: 0.8699 - val_loss: 0.4021 - val_accuracy: 0.8697
+Epoch 5/20 - loss: 0.3813 - accuracy: 0.8777 - val_loss: 0.4040 - val_accuracy: 0.8680
+Epoch 6/20 - loss: 0.3621 - accuracy: 0.8833 - val_loss: 0.3792 - val_accuracy: 0.8723
+Epoch 7/20 - loss: 0.3467 - accuracy: 0.8877 - val_loss: 0.3709 - val_accuracy: 0.8790
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\train_original.py", line 549, in <module>
+    main()
+  File "K:\DA6401\da6401_assignment1\train_original.py", line 546, in main
+    train_model(args)
+  File "K:\DA6401\da6401_assignment1\train_original.py", line 272, in train_model
+    optimizer.update(model.get_params_and_grads())
+  File "K:\DA6401\da6401_assignment1\src\optimizers.py", line 205, in update
+    param -= self.learning_rate * m_hat_nesterov / (np.sqrt(v_hat) + self.epsilon)
+KeyboardInterrupt

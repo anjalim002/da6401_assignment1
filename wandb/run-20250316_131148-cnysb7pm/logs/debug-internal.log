@@ -1,0 +1,16 @@
+{"time":"2025-03-16T13:11:48.0781468+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_131148-cnysb7pm\\logs\\debug-core.log"}
+{"time":"2025-03-16T13:11:48.201913+05:30","level":"INFO","msg":"created new stream","id":"cnysb7pm"}
+{"time":"2025-03-16T13:11:48.201913+05:30","level":"INFO","msg":"stream: started","id":"cnysb7pm"}
+{"time":"2025-03-16T13:11:48.2024188+05:30","level":"INFO","msg":"handler: started","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:11:48.2024188+05:30","level":"INFO","msg":"sender: started","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:11:48.2024188+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:11:48.5833999+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T13:12:14.6476942+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:12:14.6487666+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:12:15.6523317+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.741102,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.741102,"progress":"740B/740B"},{"desc":"uploading config.yaml","runtime_seconds":0.3975474,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T13:12:16.2789294+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:12:16.5946329+05:30","level":"INFO","msg":"stream: closing","id":"cnysb7pm"}
+{"time":"2025-03-16T13:12:16.5946329+05:30","level":"INFO","msg":"handler: closed","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:12:16.5946329+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:12:16.594932+05:30","level":"INFO","msg":"sender: closed","stream_id":"cnysb7pm"}
+{"time":"2025-03-16T13:12:16.6279663+05:30","level":"INFO","msg":"stream: closed","id":"cnysb7pm"}

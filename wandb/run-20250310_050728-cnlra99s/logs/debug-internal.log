@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:07:28.5011278+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_050728-cnlra99s\\logs\\debug-core.log"}
+{"time":"2025-03-10T05:07:28.6285051+05:30","level":"INFO","msg":"created new stream","id":"cnlra99s"}
+{"time":"2025-03-10T05:07:28.6285051+05:30","level":"INFO","msg":"stream: started","id":"cnlra99s"}
+{"time":"2025-03-10T05:07:28.6290899+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:07:28.6290899+05:30","level":"INFO","msg":"sender: started","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:07:28.6290899+05:30","level":"INFO","msg":"handler: started","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:07:28.9980025+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:09:28.2738069+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:09:28.2745964+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:09:29.2933904+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_12_3b17a40d3c0003481150.png","runtime_seconds":0.7331636,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4336138,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4336138,"progress":"733B/733B"},{"desc":"uploading config.yaml","runtime_seconds":0.1317422,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T05:09:30.1700395+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:09:30.7825495+05:30","level":"INFO","msg":"stream: closing","id":"cnlra99s"}
+{"time":"2025-03-10T05:09:30.7825495+05:30","level":"INFO","msg":"handler: closed","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:09:30.7825495+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:09:30.7825495+05:30","level":"INFO","msg":"sender: closed","stream_id":"cnlra99s"}
+{"time":"2025-03-10T05:09:30.7937112+05:30","level":"INFO","msg":"stream: closed","id":"cnlra99s"}

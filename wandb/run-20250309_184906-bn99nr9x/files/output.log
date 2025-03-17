@@ -1,0 +1,8 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.0001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/5 - loss: 0.1546 - accuracy: 0.7870 - val_loss: 0.1098 - val_accuracy: 0.8482
+Epoch 2/5 - loss: 0.1083 - accuracy: 0.8496 - val_loss: 0.1064 - val_accuracy: 0.8508
+Epoch 3/5 - loss: 0.0997 - accuracy: 0.8621 - val_loss: 0.0964 - val_accuracy: 0.8633
+Epoch 4/5 - loss: 0.0946 - accuracy: 0.8692 - val_loss: 0.0972 - val_accuracy: 0.8658
+Epoch 5/5 - loss: 0.0908 - accuracy: 0.8746 - val_loss: 0.0916 - val_accuracy: 0.8678
+Test loss: 0.1005 - Test accuracy: 0.8624

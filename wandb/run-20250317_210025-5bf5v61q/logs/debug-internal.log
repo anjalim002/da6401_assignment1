@@ -1,0 +1,16 @@
+{"time":"2025-03-17T21:00:25.8229369+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_210025-5bf5v61q\\logs\\debug-core.log"}
+{"time":"2025-03-17T21:00:25.9510602+05:30","level":"INFO","msg":"created new stream","id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:25.9510602+05:30","level":"INFO","msg":"stream: started","id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:25.9510602+05:30","level":"INFO","msg":"sender: started","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:25.9510602+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:25.9510602+05:30","level":"INFO","msg":"handler: started","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:26.4576574+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:00:26.7611872+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:00:26.7643673+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:00:27.7847638+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.7808268,"progress":"1.4KB/1.4KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.5675932,"progress":"711B/711B"},{"desc":"uploading output.log","runtime_seconds":0.0826329,"progress":"1.0KB/1.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0826329,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-17T21:00:29.0372769+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:00:29.3984228+05:30","level":"INFO","msg":"stream: closing","id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:29.3984228+05:30","level":"INFO","msg":"sender: closed","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:29.3989718+05:30","level":"INFO","msg":"handler: closed","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:29.3989718+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5bf5v61q"}
+{"time":"2025-03-17T21:00:29.4656855+05:30","level":"INFO","msg":"stream: closed","id":"5bf5v61q"}

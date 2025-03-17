@@ -1,0 +1,13 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 3, 'optimizer': 'sgd', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/10 - loss: 2.3182 - accuracy: 0.0929 - val_loss: 2.3163 - val_accuracy: 0.0933
+Epoch 2/10 - loss: 2.3148 - accuracy: 0.0934 - val_loss: 2.3130 - val_accuracy: 0.0940
+Epoch 3/10 - loss: 2.3114 - accuracy: 0.0941 - val_loss: 2.3096 - val_accuracy: 0.0948
+Epoch 4/10 - loss: 2.3079 - accuracy: 0.0952 - val_loss: 2.3063 - val_accuracy: 0.0960
+Epoch 5/10 - loss: 2.3045 - accuracy: 0.0963 - val_loss: 2.3029 - val_accuracy: 0.0988
+Epoch 6/10 - loss: 2.3011 - accuracy: 0.0969 - val_loss: 2.2995 - val_accuracy: 0.0998
+Epoch 7/10 - loss: 2.2976 - accuracy: 0.0981 - val_loss: 2.2961 - val_accuracy: 0.1018
+Epoch 8/10 - loss: 2.2941 - accuracy: 0.0996 - val_loss: 2.2927 - val_accuracy: 0.1017
+Epoch 9/10 - loss: 2.2906 - accuracy: 0.1010 - val_loss: 2.2892 - val_accuracy: 0.1025
+Epoch 10/10 - loss: 2.2870 - accuracy: 0.1020 - val_loss: 2.2857 - val_accuracy: 0.1037
+Test loss: 2.2855 - Test accuracy: 0.1055

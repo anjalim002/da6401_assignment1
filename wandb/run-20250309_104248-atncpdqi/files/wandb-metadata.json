@@ -1,0 +1,34 @@
+{
+  "os":  "Windows-10-10.0.22000-SP0",
+  "python":  "CPython 3.10.0",
+  "startedAt":  "2025-03-09T05:12:48.742215Z",
+  "args":  [
+    "--sweep",
+    "--wandb_entity",
+    "da24m002-indian-institute-of-technology-madras",
+    "--wandb_project",
+    "da6401_a1"
+  ],
+  "program":  "K:\\DA6401\\da6401_assignment1\\train.py",
+  "codePath":  "train.py",
+  "email":  "da24m002@smail.iitm.ac.in",
+  "root":  "K:\\DA6401\\da6401_assignment1",
+  "host":  "LAPTOP-QS3R10DF",
+  "executable":  "C:\\Users\\ANJALI VERMA\\anaconda3\\envs\\dl\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "116507275264",
+      "used":  "252571648"
+    }
+  },
+  "memory":  {
+    "total":  "8317952000"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

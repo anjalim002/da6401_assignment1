@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:29:36.0236207+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_012936-kzp3bhml\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:29:36.1563277+05:30","level":"INFO","msg":"created new stream","id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:36.1563277+05:30","level":"INFO","msg":"stream: started","id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:36.1563277+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:36.15698+05:30","level":"INFO","msg":"handler: started","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:36.15698+05:30","level":"INFO","msg":"sender: started","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:36.5349805+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:29:49.7194015+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:29:49.7203179+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:29:50.7336671+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.7247665,"progress":"722B/722B"},{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7247665,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.7247665,"progress":"817B/817B"},{"desc":"uploading config.yaml","runtime_seconds":0.3839086,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T01:29:51.323275+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:29:51.6650867+05:30","level":"INFO","msg":"stream: closing","id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:51.6650867+05:30","level":"INFO","msg":"handler: closed","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:51.6650867+05:30","level":"INFO","msg":"sender: closed","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:51.6650867+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kzp3bhml"}
+{"time":"2025-03-10T01:29:51.6730856+05:30","level":"INFO","msg":"stream: closed","id":"kzp3bhml"}

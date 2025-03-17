@@ -1,0 +1,16 @@
+{"time":"2025-03-17T19:26:41.3614516+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_192641-kbkldyfg\\logs\\debug-core.log"}
+{"time":"2025-03-17T19:26:41.4986959+05:30","level":"INFO","msg":"created new stream","id":"kbkldyfg"}
+{"time":"2025-03-17T19:26:41.4992101+05:30","level":"INFO","msg":"stream: started","id":"kbkldyfg"}
+{"time":"2025-03-17T19:26:41.4992101+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:26:41.4992101+05:30","level":"INFO","msg":"sender: started","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:26:41.4997591+05:30","level":"INFO","msg":"handler: started","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:26:42.0207382+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T19:29:03.4719827+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T19:29:03.4756876+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T19:29:04.4987364+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_21_1a3c8f6a186f79f24888.png","runtime_seconds":0.7438363,"progress":"402.5KB/402.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0941661,"progress":"1.2KB/1.2KB"}],"total_operations":2}}
+{"time":"2025-03-17T19:29:05.2169354+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T19:29:05.5899351+05:30","level":"INFO","msg":"stream: closing","id":"kbkldyfg"}
+{"time":"2025-03-17T19:29:05.5899351+05:30","level":"INFO","msg":"handler: closed","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:29:05.5900145+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:29:05.5900145+05:30","level":"INFO","msg":"sender: closed","stream_id":"kbkldyfg"}
+{"time":"2025-03-17T19:29:05.6512722+05:30","level":"INFO","msg":"stream: closed","id":"kbkldyfg"}

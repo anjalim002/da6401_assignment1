@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-10-10.0.22000-SP0",
+  "python":  "CPython 3.10.0",
+  "startedAt":  "2025-03-10T01:40:03.448806Z",
+  "program":  "K:\\DA6401\\da6401_assignment1\\train.py",
+  "codePath":  "train.py",
+  "email":  "da24m002@smail.iitm.ac.in",
+  "root":  "K:\\DA6401\\da6401_assignment1",
+  "host":  "LAPTOP-QS3R10DF",
+  "executable":  "C:\\Users\\ANJALI VERMA\\anaconda3\\envs\\dl\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "116507275264",
+      "used":  "323653632"
+    }
+  },
+  "memory":  {
+    "total":  "8317952000"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

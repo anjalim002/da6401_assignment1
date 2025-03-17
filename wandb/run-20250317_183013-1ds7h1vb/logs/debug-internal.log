@@ -1,0 +1,16 @@
+{"time":"2025-03-17T18:30:13.1952642+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_183013-1ds7h1vb\\logs\\debug-core.log"}
+{"time":"2025-03-17T18:30:13.3280077+05:30","level":"INFO","msg":"created new stream","id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:13.3280077+05:30","level":"INFO","msg":"stream: started","id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:13.3280077+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:13.3280077+05:30","level":"INFO","msg":"sender: started","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:13.3280077+05:30","level":"INFO","msg":"handler: started","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:13.7441563+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:30:14.3498166+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:30:14.3515056+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:30:15.3536818+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\comparison_accuracy_0_88239406029efa02070c.png","runtime_seconds":0.2202826,"progress":"168.5KB/168.5KB"},{"desc":"uploading media\\images\\comparison_val_accuracy_1_37b1cf4b95d15ffa975b.png","runtime_seconds":0.2202826,"progress":"208.6KB/208.6KB"},{"desc":"uploading media\\images\\comparison_loss_2_07702ea3eb72869be402.png","runtime_seconds":0.2202826,"progress":"146.1KB/146.1KB"},{"desc":"uploading media\\images\\comparison_val_loss_3_aca755a9dd95a408b346.png","runtime_seconds":0.2202826,"progress":"161.2KB/161.2KB"},{"desc":"uploading media\\images\\test_accuracy_comparison_4_ed79caaea32b9c39e897.png","runtime_seconds":0.2202826,"progress":"80.7KB/80.7KB"},{"desc":"uploading output.log","runtime_seconds":0.2202826},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2202826,"progress":"1.3KB/1.3KB"}],"total_operations":7}}
+{"time":"2025-03-17T18:30:16.7684308+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T18:30:17.1067816+05:30","level":"INFO","msg":"stream: closing","id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:17.1072376+05:30","level":"INFO","msg":"handler: closed","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:17.1072376+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:17.1072376+05:30","level":"INFO","msg":"sender: closed","stream_id":"1ds7h1vb"}
+{"time":"2025-03-17T18:30:17.1849984+05:30","level":"INFO","msg":"stream: closed","id":"1ds7h1vb"}

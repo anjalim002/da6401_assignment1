@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:05:41.4188484+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_010541-ktgp9wz8\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:05:41.5430584+05:30","level":"INFO","msg":"created new stream","id":"ktgp9wz8"}
+{"time":"2025-03-10T01:05:41.5430584+05:30","level":"INFO","msg":"stream: started","id":"ktgp9wz8"}
+{"time":"2025-03-10T01:05:41.5430584+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:05:41.5430584+05:30","level":"INFO","msg":"handler: started","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:05:41.5436096+05:30","level":"INFO","msg":"sender: started","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:05:41.8871922+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:06:13.5430492+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:06:13.5435608+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:06:14.5489151+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\confusion_matrix_6_8ad1aa514bf65748acd0.png","runtime_seconds":1.4729347,"progress":"60.4KB/60.4KB"},{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7271923,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.7271923,"progress":"819B/819B"},{"desc":"uploading config.yaml","runtime_seconds":0.4007604,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T01:06:15.2871426+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:06:15.6081674+05:30","level":"INFO","msg":"stream: closing","id":"ktgp9wz8"}
+{"time":"2025-03-10T01:06:15.6081674+05:30","level":"INFO","msg":"handler: closed","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:06:15.6081674+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:06:15.6081674+05:30","level":"INFO","msg":"sender: closed","stream_id":"ktgp9wz8"}
+{"time":"2025-03-10T01:06:15.6258968+05:30","level":"INFO","msg":"stream: closed","id":"ktgp9wz8"}

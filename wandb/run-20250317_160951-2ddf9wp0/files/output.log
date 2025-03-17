@@ -1,0 +1,29 @@
+ Starting training with config: {'activation': 'sigmoid', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 20, 'epsilon': 1e-08, 'hidden_size': 32, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'sgd', 'weight_decay': 0.0005, 'weight_init': 'Xavier'}
+Epoch 1/20 - loss: 2.4455 - accuracy: 0.0992 - val_loss: 2.4355 - val_accuracy: 0.1072
+Epoch 2/20 - loss: 2.4446 - accuracy: 0.0992 - val_loss: 2.4345 - val_accuracy: 0.1072
+Epoch 3/20 - loss: 2.4436 - accuracy: 0.0992 - val_loss: 2.4336 - val_accuracy: 0.1072
+Epoch 4/20 - loss: 2.4426 - accuracy: 0.0992 - val_loss: 2.4327 - val_accuracy: 0.1072
+Epoch 5/20 - loss: 2.4417 - accuracy: 0.0992 - val_loss: 2.4317 - val_accuracy: 0.1072
+Epoch 6/20 - loss: 2.4407 - accuracy: 0.0992 - val_loss: 2.4308 - val_accuracy: 0.1072
+Epoch 7/20 - loss: 2.4398 - accuracy: 0.0992 - val_loss: 2.4299 - val_accuracy: 0.1072
+Epoch 8/20 - loss: 2.4388 - accuracy: 0.0992 - val_loss: 2.4290 - val_accuracy: 0.1072
+Epoch 9/20 - loss: 2.4379 - accuracy: 0.0992 - val_loss: 2.4281 - val_accuracy: 0.1072
+Epoch 10/20 - loss: 2.4370 - accuracy: 0.0992 - val_loss: 2.4273 - val_accuracy: 0.1072
+Epoch 11/20 - loss: 2.4361 - accuracy: 0.0992 - val_loss: 2.4264 - val_accuracy: 0.1072
+Epoch 12/20 - loss: 2.4352 - accuracy: 0.0992 - val_loss: 2.4255 - val_accuracy: 0.1072
+Epoch 13/20 - loss: 2.4343 - accuracy: 0.0992 - val_loss: 2.4247 - val_accuracy: 0.1072
+Epoch 14/20 - loss: 2.4335 - accuracy: 0.0992 - val_loss: 2.4238 - val_accuracy: 0.1072
+Epoch 15/20 - loss: 2.4326 - accuracy: 0.0992 - val_loss: 2.4230 - val_accuracy: 0.1072
+Epoch 16/20 - loss: 2.4317 - accuracy: 0.0992 - val_loss: 2.4222 - val_accuracy: 0.1072
+Epoch 17/20 - loss: 2.4309 - accuracy: 0.0992 - val_loss: 2.4213 - val_accuracy: 0.1072
+Epoch 18/20 - loss: 2.4300 - accuracy: 0.0992 - val_loss: 2.4205 - val_accuracy: 0.1072
+Epoch 19/20 - loss: 2.4291 - accuracy: 0.0992 - val_loss: 2.4197 - val_accuracy: 0.1072
+Epoch 20/20 - loss: 2.4283 - accuracy: 0.0992 - val_loss: 2.4189 - val_accuracy: 0.1072
+Test loss: 2.4270 - Test accuracy: 0.1000
+Training completed! Best parameters used:
+- Model: 5 hidden layers with 32 neurons each
+- Activation: sigmoid
+- Optimizer: sgd
+- Learning rate: 0.0001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix_enhanced.png

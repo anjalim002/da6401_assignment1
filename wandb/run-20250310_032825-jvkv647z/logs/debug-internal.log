@@ -1,0 +1,16 @@
+{"time":"2025-03-10T03:28:25.0577626+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_032825-jvkv647z\\logs\\debug-core.log"}
+{"time":"2025-03-10T03:28:25.1783462+05:30","level":"INFO","msg":"created new stream","id":"jvkv647z"}
+{"time":"2025-03-10T03:28:25.1783462+05:30","level":"INFO","msg":"stream: started","id":"jvkv647z"}
+{"time":"2025-03-10T03:28:25.1783462+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:28:25.1783462+05:30","level":"INFO","msg":"handler: started","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:28:25.1783462+05:30","level":"INFO","msg":"sender: started","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:28:25.5476732+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T03:29:15.698452+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T03:29:15.69984+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T03:29:16.7165347+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7375817,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.7375817,"progress":"820B/820B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7375817,"progress":"737B/737B"},{"desc":"uploading config.yaml","runtime_seconds":0.3068225,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T03:29:17.2832638+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T03:29:17.6345696+05:30","level":"INFO","msg":"stream: closing","id":"jvkv647z"}
+{"time":"2025-03-10T03:29:17.6345696+05:30","level":"INFO","msg":"handler: closed","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:29:17.6345696+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:29:17.6345696+05:30","level":"INFO","msg":"sender: closed","stream_id":"jvkv647z"}
+{"time":"2025-03-10T03:29:17.6422938+05:30","level":"INFO","msg":"stream: closed","id":"jvkv647z"}

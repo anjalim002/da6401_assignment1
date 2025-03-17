@@ -1,0 +1,29 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'mean_squared_error', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'run_tag': '_mean_squared_error', 'compare': True}
+Epoch 1/20 - loss: 0.2125 - accuracy: 0.6679 - val_loss: 0.1311 - val_accuracy: 0.8093
+Epoch 2/20 - loss: 0.1207 - accuracy: 0.8312 - val_loss: 0.1094 - val_accuracy: 0.8490
+Epoch 3/20 - loss: 0.1036 - accuracy: 0.8579 - val_loss: 0.1029 - val_accuracy: 0.8570
+Epoch 4/20 - loss: 0.0952 - accuracy: 0.8696 - val_loss: 0.0972 - val_accuracy: 0.8667
+Epoch 5/20 - loss: 0.0906 - accuracy: 0.8768 - val_loss: 0.0941 - val_accuracy: 0.8717
+Epoch 6/20 - loss: 0.0866 - accuracy: 0.8826 - val_loss: 0.0894 - val_accuracy: 0.8747
+Epoch 7/20 - loss: 0.0827 - accuracy: 0.8880 - val_loss: 0.0936 - val_accuracy: 0.8713
+Epoch 8/20 - loss: 0.0808 - accuracy: 0.8908 - val_loss: 0.0921 - val_accuracy: 0.8725
+Epoch 9/20 - loss: 0.0785 - accuracy: 0.8941 - val_loss: 0.0884 - val_accuracy: 0.8770
+Epoch 10/20 - loss: 0.0765 - accuracy: 0.8963 - val_loss: 0.0847 - val_accuracy: 0.8830
+Epoch 11/20 - loss: 0.0739 - accuracy: 0.8992 - val_loss: 0.0932 - val_accuracy: 0.8695
+Epoch 12/20 - loss: 0.0718 - accuracy: 0.9030 - val_loss: 0.0889 - val_accuracy: 0.8778
+Epoch 13/20 - loss: 0.0704 - accuracy: 0.9049 - val_loss: 0.0847 - val_accuracy: 0.8832
+Epoch 14/20 - loss: 0.0693 - accuracy: 0.9059 - val_loss: 0.0839 - val_accuracy: 0.8865
+Epoch 15/20 - loss: 0.0675 - accuracy: 0.9095 - val_loss: 0.0846 - val_accuracy: 0.8837
+Epoch 16/20 - loss: 0.0658 - accuracy: 0.9112 - val_loss: 0.0839 - val_accuracy: 0.8845
+Epoch 17/20 - loss: 0.0650 - accuracy: 0.9122 - val_loss: 0.0842 - val_accuracy: 0.8865
+Epoch 18/20 - loss: 0.0635 - accuracy: 0.9152 - val_loss: 0.0823 - val_accuracy: 0.8893
+Epoch 19/20 - loss: 0.0622 - accuracy: 0.9173 - val_loss: 0.0826 - val_accuracy: 0.8883
+Epoch 20/20 - loss: 0.0606 - accuracy: 0.9196 - val_loss: 0.0863 - val_accuracy: 0.8830
+Test loss: 0.0947 - Test accuracy: 0.8700
+Training completed! Parameters used:
+- Loss: mean_squared_error
+- Model: 4 hidden layers with 128 neurons each
+- Activation: sigmoid
+- Optimizer: nadam
+- Learning rate: 0.001
+- Weight initialization: Xavier

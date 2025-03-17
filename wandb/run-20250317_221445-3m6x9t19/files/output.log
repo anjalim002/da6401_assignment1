@@ -1,0 +1,30 @@
+ Starting training with config: {'activation': 'sigmoid', 'batch_size': 16, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'mnist', 'epochs': 20, 'epsilon': 1e-08, 'hidden_size': 128, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'num_layers': 4, 'optimizer': 'nadam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/20 - loss: 0.5043 - accuracy: 0.8526 - val_loss: 0.2449 - val_accuracy: 0.9348
+Epoch 2/20 - loss: 0.2125 - accuracy: 0.9440 - val_loss: 0.1651 - val_accuracy: 0.9568
+Epoch 3/20 - loss: 0.1528 - accuracy: 0.9592 - val_loss: 0.1404 - val_accuracy: 0.9610
+Epoch 4/20 - loss: 0.1214 - accuracy: 0.9682 - val_loss: 0.1546 - val_accuracy: 0.9597
+Epoch 5/20 - loss: 0.1025 - accuracy: 0.9729 - val_loss: 0.1406 - val_accuracy: 0.9627
+Epoch 6/20 - loss: 0.0908 - accuracy: 0.9770 - val_loss: 0.1086 - val_accuracy: 0.9708
+Epoch 7/20 - loss: 0.0809 - accuracy: 0.9803 - val_loss: 0.1064 - val_accuracy: 0.9715
+Epoch 8/20 - loss: 0.0749 - accuracy: 0.9820 - val_loss: 0.0996 - val_accuracy: 0.9743
+Epoch 9/20 - loss: 0.0654 - accuracy: 0.9842 - val_loss: 0.0976 - val_accuracy: 0.9748
+Epoch 10/20 - loss: 0.0618 - accuracy: 0.9855 - val_loss: 0.1150 - val_accuracy: 0.9712
+Epoch 11/20 - loss: 0.0587 - accuracy: 0.9859 - val_loss: 0.1021 - val_accuracy: 0.9735
+Epoch 12/20 - loss: 0.0534 - accuracy: 0.9872 - val_loss: 0.1138 - val_accuracy: 0.9725
+Epoch 13/20 - loss: 0.0503 - accuracy: 0.9885 - val_loss: 0.1193 - val_accuracy: 0.9703
+Epoch 14/20 - loss: 0.0473 - accuracy: 0.9895 - val_loss: 0.0988 - val_accuracy: 0.9775
+Epoch 15/20 - loss: 0.0450 - accuracy: 0.9903 - val_loss: 0.1279 - val_accuracy: 0.9703
+Epoch 16/20 - loss: 0.0434 - accuracy: 0.9906 - val_loss: 0.1107 - val_accuracy: 0.9735
+Epoch 17/20 - loss: 0.0407 - accuracy: 0.9909 - val_loss: 0.1109 - val_accuracy: 0.9748
+Epoch 18/20 - loss: 0.0387 - accuracy: 0.9916 - val_loss: 0.1026 - val_accuracy: 0.9767
+Epoch 19/20 - loss: 0.0367 - accuracy: 0.9922 - val_loss: 0.1063 - val_accuracy: 0.9758
+Epoch 20/20 - loss: 0.0349 - accuracy: 0.9927 - val_loss: 0.1174 - val_accuracy: 0.9745
+Test loss: 0.1173 - Test accuracy: 0.9738
+Training completed! Configuration used:
+- Dataset: mnist
+- Model: 4 hidden layers with 128 neurons each
+- Activation: sigmoid
+- Optimizer: nadam
+- Learning rate: 0.001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix.png

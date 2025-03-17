@@ -1,0 +1,70 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'cross_entropy', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'sweep': False}
+Epoch 1/20 - loss: 1.0107 - accuracy: 0.6386 - val_loss: 0.5510 - val_accuracy: 0.8110
+Epoch 2/20 - loss: 0.5134 - accuracy: 0.8253 - val_loss: 0.4769 - val_accuracy: 0.8527
+Epoch 3/20 - loss: 0.4441 - accuracy: 0.8579 - val_loss: 0.4687 - val_accuracy: 0.8515
+Epoch 4/20 - loss: 0.4103 - accuracy: 0.8683 - val_loss: 0.4171 - val_accuracy: 0.8637
+Epoch 5/20 - loss: 0.3855 - accuracy: 0.8776 - val_loss: 0.4031 - val_accuracy: 0.8670
+Epoch 6/20 - loss: 0.3674 - accuracy: 0.8833 - val_loss: 0.3896 - val_accuracy: 0.8742
+Epoch 7/20 - loss: 0.3501 - accuracy: 0.8868 - val_loss: 0.3747 - val_accuracy: 0.8782
+Epoch 8/20 - loss: 0.3376 - accuracy: 0.8916 - val_loss: 0.3770 - val_accuracy: 0.8778
+Epoch 9/20 - loss: 0.3281 - accuracy: 0.8936 - val_loss: 0.3764 - val_accuracy: 0.8778
+Epoch 10/20 - loss: 0.3169 - accuracy: 0.8987 - val_loss: 0.3595 - val_accuracy: 0.8838
+Epoch 11/20 - loss: 0.3113 - accuracy: 0.8995 - val_loss: 0.3590 - val_accuracy: 0.8845
+Epoch 12/20 - loss: 0.3010 - accuracy: 0.9031 - val_loss: 0.3482 - val_accuracy: 0.8865
+Epoch 13/20 - loss: 0.2956 - accuracy: 0.9063 - val_loss: 0.3516 - val_accuracy: 0.8850
+Epoch 14/20 - loss: 0.2889 - accuracy: 0.9090 - val_loss: 0.3487 - val_accuracy: 0.8888
+Epoch 15/20 - loss: 0.2831 - accuracy: 0.9110 - val_loss: 0.3516 - val_accuracy: 0.8845
+Epoch 16/20 - loss: 0.2789 - accuracy: 0.9131 - val_loss: 0.3656 - val_accuracy: 0.8823
+Epoch 17/20 - loss: 0.2765 - accuracy: 0.9147 - val_loss: 0.3903 - val_accuracy: 0.8768
+Epoch 18/20 - loss: 0.2704 - accuracy: 0.9166 - val_loss: 0.3550 - val_accuracy: 0.8860
+Epoch 19/20 - loss: 0.2661 - accuracy: 0.9188 - val_loss: 0.3467 - val_accuracy: 0.8858
+Epoch 20/20 - loss: 0.2597 - accuracy: 0.9202 - val_loss: 0.3634 - val_accuracy: 0.8813
+Test loss: 0.3946 - Test accuracy: 0.8714
+Training completed! Best parameters used:
+- Model: 4 hidden layers with 128 neurons each
+- Activation: sigmoid
+- Optimizer: nadam
+- Learning rate: 0.001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix.png
+
+===== TRAINING WITH MSE LOSS =====
+ Using configuration:
+ - Loss function: mean_squared_error
+ - Epochs: 20
+ - Batch size: 64
+ - Hidden layers: 4
+ - Hidden size: 128
+ - Activation: sigmoid
+ - Optimizer: nadam
+ - Learning rate: 0.001
+ - Weight initialization: Xavier
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'cross_entropy', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'sweep': False}
+Epoch 1/20 - loss: 0.9652 - accuracy: 0.6475 - val_loss: 0.5954 - val_accuracy: 0.8023
+Epoch 2/20 - loss: 0.5271 - accuracy: 0.8281 - val_loss: 0.4790 - val_accuracy: 0.8518
+Epoch 3/20 - loss: 0.4511 - accuracy: 0.8556 - val_loss: 0.4411 - val_accuracy: 0.8612
+Epoch 4/20 - loss: 0.4131 - accuracy: 0.8668 - val_loss: 0.4452 - val_accuracy: 0.8562
+Epoch 5/20 - loss: 0.3865 - accuracy: 0.8765 - val_loss: 0.4072 - val_accuracy: 0.8688
+Epoch 6/20 - loss: 0.3667 - accuracy: 0.8823 - val_loss: 0.3874 - val_accuracy: 0.8693
+Epoch 7/20 - loss: 0.3536 - accuracy: 0.8862 - val_loss: 0.3951 - val_accuracy: 0.8732
+Epoch 8/20 - loss: 0.3411 - accuracy: 0.8898 - val_loss: 0.3754 - val_accuracy: 0.8762
+Epoch 9/20 - loss: 0.3278 - accuracy: 0.8936 - val_loss: 0.3606 - val_accuracy: 0.8840
+Epoch 10/20 - loss: 0.3205 - accuracy: 0.8979 - val_loss: 0.3709 - val_accuracy: 0.8797
+Epoch 11/20 - loss: 0.3121 - accuracy: 0.9002 - val_loss: 0.3864 - val_accuracy: 0.8718
+Epoch 12/20 - loss: 0.3047 - accuracy: 0.9027 - val_loss: 0.3524 - val_accuracy: 0.8847
+Epoch 13/20 - loss: 0.2991 - accuracy: 0.9041 - val_loss: 0.3463 - val_accuracy: 0.8893
+Epoch 14/20 - loss: 0.2916 - accuracy: 0.9082 - val_loss: 0.3468 - val_accuracy: 0.8863
+Epoch 15/20 - loss: 0.2851 - accuracy: 0.9102 - val_loss: 0.3525 - val_accuracy: 0.8857
+Epoch 16/20 - loss: 0.2797 - accuracy: 0.9138 - val_loss: 0.3435 - val_accuracy: 0.8897
+Epoch 17/20 - loss: 0.2740 - accuracy: 0.9145 - val_loss: 0.3701 - val_accuracy: 0.8810
+Epoch 18/20 - loss: 0.2692 - accuracy: 0.9166 - val_loss: 0.3673 - val_accuracy: 0.8792
+Epoch 19/20 - loss: 0.2657 - accuracy: 0.9179 - val_loss: 0.3530 - val_accuracy: 0.8837
+Epoch 20/20 - loss: 0.2623 - accuracy: 0.9208 - val_loss: 0.3482 - val_accuracy: 0.8905
+Test loss: 0.3717 - Test accuracy: 0.8781
+Training completed! Best parameters used:
+- Model: 4 hidden layers with 128 neurons each
+- Activation: sigmoid
+- Optimizer: nadam
+- Learning rate: 0.001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix.png

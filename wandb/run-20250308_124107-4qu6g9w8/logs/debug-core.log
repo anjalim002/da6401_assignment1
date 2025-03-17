@@ -1,0 +1,13 @@
+{"time":"2025-03-08T12:41:06.6428114+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\ANJALI~1\\AppData\\Local\\Temp\\tmp4qlrdpsq\\port-18264.txt","pid":18264,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-08T12:41:06.6518091+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":64587,"Zone":""}}
+{"time":"2025-03-08T12:41:06.6518091+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":18264}
+{"time":"2025-03-08T12:41:06.7956979+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:07.3810509+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"4qu6g9w8","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:07.517091+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"4qu6g9w8","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:07.9067661+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:07.9067661+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:07.9067661+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-08T12:41:07.9073468+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:08.2412842+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:08.2416487+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:64588"}
+{"time":"2025-03-08T12:41:08.2416487+05:30","level":"INFO","msg":"server is closed"}

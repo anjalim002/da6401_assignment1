@@ -1,0 +1,31 @@
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.run.save without any arguments is deprecated.Changes to attributes are automatically persisted.
+ Starting training with config: {'run_index': 0, 'optimizer': 'nadam', 'num_layers': 4, 'batch_size': 64, 'activation': 'sigmoid', 'hidden_size': 128, 'learning_rate': 0.001, 'weight_init': 'Xavier', 'weight_decay': 0, 'epochs': 20, 'dataset': 'mnist', 'beta1': 0.9, 'beta2': 0.999, 'loss': 'cross_entropy', 'epsilon': 1e-08}
+Epoch 1/20 - loss: 0.7882 - accuracy: 0.7624 - val_loss: 0.3507 - val_accuracy: 0.9142
+Epoch 2/20 - loss: 0.2819 - accuracy: 0.9288 - val_loss: 0.2179 - val_accuracy: 0.9473
+Epoch 3/20 - loss: 0.2016 - accuracy: 0.9495 - val_loss: 0.1879 - val_accuracy: 0.9495
+Epoch 4/20 - loss: 0.1625 - accuracy: 0.9594 - val_loss: 0.1609 - val_accuracy: 0.9583
+Epoch 5/20 - loss: 0.1354 - accuracy: 0.9675 - val_loss: 0.1383 - val_accuracy: 0.9663
+Epoch 6/20 - loss: 0.1164 - accuracy: 0.9718 - val_loss: 0.1334 - val_accuracy: 0.9667
+Epoch 7/20 - loss: 0.1031 - accuracy: 0.9755 - val_loss: 0.1186 - val_accuracy: 0.9695
+Epoch 8/20 - loss: 0.0924 - accuracy: 0.9791 - val_loss: 0.1225 - val_accuracy: 0.9668
+Epoch 9/20 - loss: 0.0849 - accuracy: 0.9811 - val_loss: 0.1248 - val_accuracy: 0.9680
+Epoch 10/20 - loss: 0.0785 - accuracy: 0.9831 - val_loss: 0.1178 - val_accuracy: 0.9693
+Epoch 11/20 - loss: 0.0726 - accuracy: 0.9849 - val_loss: 0.1189 - val_accuracy: 0.9698
+Epoch 12/20 - loss: 0.0691 - accuracy: 0.9854 - val_loss: 0.1041 - val_accuracy: 0.9742
+Epoch 13/20 - loss: 0.0651 - accuracy: 0.9867 - val_loss: 0.1092 - val_accuracy: 0.9735
+Epoch 14/20 - loss: 0.0599 - accuracy: 0.9882 - val_loss: 0.1136 - val_accuracy: 0.9715
+Epoch 15/20 - loss: 0.0595 - accuracy: 0.9879 - val_loss: 0.1005 - val_accuracy: 0.9760
+Epoch 16/20 - loss: 0.0566 - accuracy: 0.9889 - val_loss: 0.1083 - val_accuracy: 0.9725
+Epoch 17/20 - loss: 0.0520 - accuracy: 0.9906 - val_loss: 0.1094 - val_accuracy: 0.9733
+Epoch 18/20 - loss: 0.0519 - accuracy: 0.9903 - val_loss: 0.1163 - val_accuracy: 0.9712
+Epoch 19/20 - loss: 0.0500 - accuracy: 0.9909 - val_loss: 0.1110 - val_accuracy: 0.9730
+Epoch 20/20 - loss: 0.0477 - accuracy: 0.9913 - val_loss: 0.1157 - val_accuracy: 0.9732
+Test loss: 0.1170 - Test accuracy: 0.9738
+Training completed! Configuration used:
+- Dataset: mnist
+- Model: 4 hidden layers with 128 neurons each
+- Activation: sigmoid
+- Optimizer: nadam
+- Learning rate: 0.001
+- Weight initialization: Xavier
+- Confusion matrix saved to confusion_matrix.png

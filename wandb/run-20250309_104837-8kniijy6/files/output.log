@@ -1,0 +1,1 @@
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 64, 'dataset': 'fashion_mnist', 'epochs': 10, 'hidden_size': 64, 'learning_rate': 0.001, 'loss': 'cross_entropy', 'num_layers': 4, 'optimizer': 'nadam', 'weight_decay': 0, 'weight_init': 'random'}

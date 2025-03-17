@@ -1,0 +1,16 @@
+{"time":"2025-03-10T04:27:25.0369246+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_042725-dd4n4vin\\logs\\debug-core.log"}
+{"time":"2025-03-10T04:27:25.1629109+05:30","level":"INFO","msg":"created new stream","id":"dd4n4vin"}
+{"time":"2025-03-10T04:27:25.1629109+05:30","level":"INFO","msg":"stream: started","id":"dd4n4vin"}
+{"time":"2025-03-10T04:27:25.1629109+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:27:25.1629109+05:30","level":"INFO","msg":"handler: started","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:27:25.1629109+05:30","level":"INFO","msg":"sender: started","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:27:25.5061572+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T04:28:28.9373949+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T04:28:28.9387656+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T04:28:29.9480965+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_7_3b17a40d3c0003481150.png","runtime_seconds":0.7277253,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.3991353,"progress":"827B/827B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3991353,"progress":"739B/739B"},{"desc":"uploading config.yaml","runtime_seconds":0.1079006,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T04:28:30.386256+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T04:28:30.7200255+05:30","level":"INFO","msg":"stream: closing","id":"dd4n4vin"}
+{"time":"2025-03-10T04:28:30.7200255+05:30","level":"INFO","msg":"handler: closed","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:28:30.7200255+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:28:30.7200255+05:30","level":"INFO","msg":"sender: closed","stream_id":"dd4n4vin"}
+{"time":"2025-03-10T04:28:30.728626+05:30","level":"INFO","msg":"stream: closed","id":"dd4n4vin"}

@@ -1,0 +1,11 @@
+ Starting training with config: {'wandb_project': 'da6401_a1', 'wandb_entity': 'da24m002-indian-institute-of-technology-madras', 'dataset': 'fashion_mnist', 'epochs': 20, 'batch_size': 64, 'loss': 'cross_entropy', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0, 'weight_init': 'Xavier', 'num_layers': 4, 'hidden_size': 128, 'activation': 'sigmoid', 'run_tag': '_cross_entropy', 'compare': True}
+Traceback (most recent call last):
+  File "K:\DA6401\da6401_assignment1\question8.py", line 412, in compare_losses
+    history = train_model(args)
+  File "K:\DA6401\da6401_assignment1\question8.py", line 255, in train_model
+    model.backward(grad_output)
+  File "K:\DA6401\da6401_assignment1\src\network.py", line 68, in backward
+    grad = layer.backward(grad)
+  File "K:\DA6401\da6401_assignment1\src\layers.py", line 71, in backward
+    return np.dot(grad_output, self.params['W'].T)
+KeyboardInterrupt

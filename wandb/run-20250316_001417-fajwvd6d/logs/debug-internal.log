@@ -1,0 +1,16 @@
+{"time":"2025-03-16T00:14:17.5620607+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_001417-fajwvd6d\\logs\\debug-core.log"}
+{"time":"2025-03-16T00:14:17.6845462+05:30","level":"INFO","msg":"created new stream","id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:17.6845462+05:30","level":"INFO","msg":"stream: started","id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:17.6845462+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:17.6850831+05:30","level":"INFO","msg":"sender: started","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:17.6850831+05:30","level":"INFO","msg":"handler: started","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:18.0521234+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T00:14:47.8584084+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T00:14:47.8608809+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T00:14:48.86826+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7291372,"progress":"1.3KB/1.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.7291372,"progress":"729B/729B"},{"desc":"uploading media\\images\\examples_12_75cf3f2d6042056b9d89.png","runtime_seconds":0.7291372,"progress":"28.9KB/28.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3854083,"progress":"1.1KB/1.1KB"},{"desc":"uploading history steps 5-12, summary, console lines 6-11","runtime_seconds":0.0835338}],"total_operations":5}}
+{"time":"2025-03-16T00:14:49.4753391+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T00:14:49.7782251+05:30","level":"INFO","msg":"stream: closing","id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:49.7782251+05:30","level":"INFO","msg":"handler: closed","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:49.7782251+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:49.7782251+05:30","level":"INFO","msg":"sender: closed","stream_id":"fajwvd6d"}
+{"time":"2025-03-16T00:14:49.7814622+05:30","level":"INFO","msg":"stream: closed","id":"fajwvd6d"}

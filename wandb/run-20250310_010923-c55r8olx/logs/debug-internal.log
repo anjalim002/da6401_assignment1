@@ -1,0 +1,16 @@
+{"time":"2025-03-10T01:09:23.9203361+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_010923-c55r8olx\\logs\\debug-core.log"}
+{"time":"2025-03-10T01:09:24.0418575+05:30","level":"INFO","msg":"created new stream","id":"c55r8olx"}
+{"time":"2025-03-10T01:09:24.0418575+05:30","level":"INFO","msg":"stream: started","id":"c55r8olx"}
+{"time":"2025-03-10T01:09:24.0418575+05:30","level":"INFO","msg":"handler: started","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:09:24.0418575+05:30","level":"INFO","msg":"sender: started","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:09:24.0418575+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:09:24.3856231+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T01:10:17.6877843+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T01:10:17.6887829+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T01:10:18.7014517+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.740373,"progress":"824B/824B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.740373,"progress":"739B/739B"},{"desc":"uploading config.yaml","runtime_seconds":0.4051719,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-10T01:10:19.2645229+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T01:10:19.6039786+05:30","level":"INFO","msg":"stream: closing","id":"c55r8olx"}
+{"time":"2025-03-10T01:10:19.6039786+05:30","level":"INFO","msg":"handler: closed","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:10:19.6039786+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:10:19.6039786+05:30","level":"INFO","msg":"sender: closed","stream_id":"c55r8olx"}
+{"time":"2025-03-10T01:10:19.624821+05:30","level":"INFO","msg":"stream: closed","id":"c55r8olx"}

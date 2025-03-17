@@ -1,0 +1,16 @@
+{"time":"2025-03-16T03:00:35.3091586+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_030035-jsmqa1hb\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:00:35.432908+05:30","level":"INFO","msg":"created new stream","id":"jsmqa1hb"}
+{"time":"2025-03-16T03:00:35.4342407+05:30","level":"INFO","msg":"stream: started","id":"jsmqa1hb"}
+{"time":"2025-03-16T03:00:35.4344282+05:30","level":"INFO","msg":"sender: started","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:00:35.4342407+05:30","level":"INFO","msg":"handler: started","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:00:35.4342407+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:00:35.820274+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T03:06:03.2971518+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T03:06:03.2984923+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T03:06:04.303456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4267165,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4267165,"progress":"730B/730B"},{"desc":"uploading config.yaml","runtime_seconds":0.101782,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T03:06:05.1922408+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T03:06:05.5192993+05:30","level":"INFO","msg":"stream: closing","id":"jsmqa1hb"}
+{"time":"2025-03-16T03:06:05.5192993+05:30","level":"INFO","msg":"handler: closed","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:06:05.5192993+05:30","level":"INFO","msg":"sender: closed","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:06:05.5192993+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jsmqa1hb"}
+{"time":"2025-03-16T03:06:05.5390056+05:30","level":"INFO","msg":"stream: closed","id":"jsmqa1hb"}

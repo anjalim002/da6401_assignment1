@@ -1,0 +1,16 @@
+{"time":"2025-03-09T10:42:48.7453576+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_104248-atncpdqi\\logs\\debug-core.log"}
+{"time":"2025-03-09T10:42:48.8714603+05:30","level":"INFO","msg":"created new stream","id":"atncpdqi"}
+{"time":"2025-03-09T10:42:48.8724591+05:30","level":"INFO","msg":"stream: started","id":"atncpdqi"}
+{"time":"2025-03-09T10:42:48.8727787+05:30","level":"INFO","msg":"sender: started","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:48.8724591+05:30","level":"INFO","msg":"handler: started","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:48.8727787+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:49.2297275+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T10:42:50.0161888+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T10:42:50.0188505+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T10:42:51.0470945+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.294476,"progress":"279B/279B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.294476,"progress":"24B/24B"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.1274932,"progress":"821B/821B"}],"total_operations":3}}
+{"time":"2025-03-09T10:42:52.1397822+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T10:42:52.5210304+05:30","level":"INFO","msg":"stream: closing","id":"atncpdqi"}
+{"time":"2025-03-09T10:42:52.5210304+05:30","level":"INFO","msg":"handler: closed","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:52.5210304+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:52.5210304+05:30","level":"INFO","msg":"sender: closed","stream_id":"atncpdqi"}
+{"time":"2025-03-09T10:42:52.5554337+05:30","level":"INFO","msg":"stream: closed","id":"atncpdqi"}

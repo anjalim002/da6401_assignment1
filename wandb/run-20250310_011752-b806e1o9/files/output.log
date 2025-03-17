@@ -1,0 +1,7 @@
+🔄 Starting training with config: {'activation': 'tanh', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 5, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'nadam', 'weight_decay': 0, 'weight_init': 'Xavier'}
+Epoch 1/5 - loss: 0.1292 - accuracy: 0.8188 - val_loss: 0.1007 - val_accuracy: 0.8622
+Epoch 2/5 - loss: 0.0983 - accuracy: 0.8642 - val_loss: 0.0929 - val_accuracy: 0.8737
+Epoch 3/5 - loss: 0.0907 - accuracy: 0.8756 - val_loss: 0.0903 - val_accuracy: 0.8753
+Epoch 4/5 - loss: 0.0854 - accuracy: 0.8819 - val_loss: 0.0892 - val_accuracy: 0.8763
+Epoch 5/5 - loss: 0.0816 - accuracy: 0.8884 - val_loss: 0.0861 - val_accuracy: 0.8818
+Test loss: 0.0955 - Test accuracy: 0.8679

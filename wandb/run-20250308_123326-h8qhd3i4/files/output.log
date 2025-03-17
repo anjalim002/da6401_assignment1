@@ -1,0 +1,2 @@
+wandb: WARNING Ignoring project 'myprojectname' when running a sweep.
+wandb: WARNING Ignoring entity 'myname' when running a sweep.

@@ -1,0 +1,24 @@
+{"time":"2025-03-16T03:34:35.8120758+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_033435-1d62bckh\\logs\\debug-core.log"}
+{"time":"2025-03-16T03:34:35.943454+05:30","level":"INFO","msg":"created new stream","id":"1d62bckh"}
+{"time":"2025-03-16T03:34:35.943454+05:30","level":"INFO","msg":"stream: started","id":"1d62bckh"}
+{"time":"2025-03-16T03:34:35.943454+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1d62bckh"}
+{"time":"2025-03-16T03:34:35.9439567+05:30","level":"INFO","msg":"handler: started","stream_id":"1d62bckh"}
+{"time":"2025-03-16T03:34:35.9439567+05:30","level":"INFO","msg":"sender: started","stream_id":"1d62bckh"}
+{"time":"2025-03-16T03:34:36.328641+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:45:42.3777958+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/1d62bckh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:45:44.664247+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/1d62bckh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:45:48.4972709+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:45:49.3548058+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/1d62bckh/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:45:50.9958503+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:45:55.544037+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-03-16T12:46:20.4604261+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/da24m002-indian-institute-of-technology-madras/da6401_a1/1d62bckh/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-16T12:46:25.6622184+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-16T12:49:22.3873424+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T12:49:22.3908404+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T12:49:23.4500503+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.4666515,"progress":"735B/735B"},{"desc":"uploading config.yaml","runtime_seconds":0.1380023,"progress":"1.1KB/1.1KB"}],"total_operations":2}}
+{"time":"2025-03-16T12:49:24.5023659+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T12:49:24.8341946+05:30","level":"INFO","msg":"stream: closing","id":"1d62bckh"}
+{"time":"2025-03-16T12:49:24.8341946+05:30","level":"INFO","msg":"handler: closed","stream_id":"1d62bckh"}
+{"time":"2025-03-16T12:49:24.8341946+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1d62bckh"}
+{"time":"2025-03-16T12:49:24.8341946+05:30","level":"INFO","msg":"sender: closed","stream_id":"1d62bckh"}
+{"time":"2025-03-16T12:49:24.8755916+05:30","level":"INFO","msg":"stream: closed","id":"1d62bckh"}

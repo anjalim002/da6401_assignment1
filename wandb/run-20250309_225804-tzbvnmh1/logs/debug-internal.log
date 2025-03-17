@@ -1,0 +1,16 @@
+{"time":"2025-03-09T22:58:05.0219523+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250309_225804-tzbvnmh1\\logs\\debug-core.log"}
+{"time":"2025-03-09T22:58:05.145961+05:30","level":"INFO","msg":"created new stream","id":"tzbvnmh1"}
+{"time":"2025-03-09T22:58:05.145961+05:30","level":"INFO","msg":"stream: started","id":"tzbvnmh1"}
+{"time":"2025-03-09T22:58:05.1469539+05:30","level":"INFO","msg":"handler: started","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T22:58:05.1469539+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T22:58:05.1469539+05:30","level":"INFO","msg":"sender: started","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T22:58:05.5209679+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T23:01:43.7931553+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T23:01:43.7946829+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T23:01:44.8043949+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4241862,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4239225,"progress":"729B/729B"},{"desc":"uploading config.yaml","runtime_seconds":0.1246625,"progress":"1.1KB/1.1KB"}],"total_operations":3}}
+{"time":"2025-03-09T23:01:45.6007439+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T23:01:45.9571992+05:30","level":"INFO","msg":"stream: closing","id":"tzbvnmh1"}
+{"time":"2025-03-09T23:01:45.9571992+05:30","level":"INFO","msg":"handler: closed","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T23:01:45.9571992+05:30","level":"INFO","msg":"sender: closed","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T23:01:45.9571992+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tzbvnmh1"}
+{"time":"2025-03-09T23:01:45.9857086+05:30","level":"INFO","msg":"stream: closed","id":"tzbvnmh1"}

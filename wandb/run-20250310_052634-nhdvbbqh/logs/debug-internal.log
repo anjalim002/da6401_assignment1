@@ -1,0 +1,16 @@
+{"time":"2025-03-10T05:26:34.2921181+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250310_052634-nhdvbbqh\\logs\\debug-core.log"}
+{"time":"2025-03-10T05:26:34.4147193+05:30","level":"INFO","msg":"created new stream","id":"nhdvbbqh"}
+{"time":"2025-03-10T05:26:34.4150463+05:30","level":"INFO","msg":"stream: started","id":"nhdvbbqh"}
+{"time":"2025-03-10T05:26:34.4150463+05:30","level":"INFO","msg":"handler: started","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:26:34.4150463+05:30","level":"INFO","msg":"sender: started","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:26:34.4150463+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:26:34.7875171+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T05:28:13.4043052+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T05:28:13.4056596+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T05:28:14.4098669+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\examples_12_3b17a40d3c0003481150.png","runtime_seconds":0.7235391,"progress":"23.3KB/23.3KB"},{"desc":"uploading output.log","runtime_seconds":0.4106666,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4106666,"progress":"729B/729B"},{"desc":"uploading config.yaml","runtime_seconds":0.1102474,"progress":"1.1KB/1.1KB"}],"total_operations":4}}
+{"time":"2025-03-10T05:28:15.3071329+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T05:28:15.6354261+05:30","level":"INFO","msg":"stream: closing","id":"nhdvbbqh"}
+{"time":"2025-03-10T05:28:15.6354261+05:30","level":"INFO","msg":"handler: closed","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:28:15.6354261+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:28:15.6354261+05:30","level":"INFO","msg":"sender: closed","stream_id":"nhdvbbqh"}
+{"time":"2025-03-10T05:28:15.645663+05:30","level":"INFO","msg":"stream: closed","id":"nhdvbbqh"}

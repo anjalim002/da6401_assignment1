@@ -1,0 +1,14 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 64, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 64, 'learning_rate': 0.0001, 'loss': 'cross_entropy', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'momentum', 'weight_decay': 0.5, 'weight_init': 'Xavier'}
+Epoch 1/10 - loss: 2.3070 - accuracy: 0.0685 - val_loss: 2.3033 - val_accuracy: 0.0777
+Epoch 2/10 - loss: 2.3028 - accuracy: 0.0976 - val_loss: 2.3026 - val_accuracy: 0.1300
+Epoch 3/10 - loss: 2.3026 - accuracy: 0.1151 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 4/10 - loss: 2.3026 - accuracy: 0.1025 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 5/10 - loss: 2.3026 - accuracy: 0.1007 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 6/10 - loss: 2.3026 - accuracy: 0.1008 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 7/10 - loss: 2.3026 - accuracy: 0.1007 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 8/10 - loss: 2.3026 - accuracy: 0.1002 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 9/10 - loss: 2.3026 - accuracy: 0.1007 - val_loss: 2.3026 - val_accuracy: 0.0933
+Epoch 10/10 - loss: 2.3026 - accuracy: 0.1007 - val_loss: 2.3026 - val_accuracy: 0.0933
+Test loss: 2.3026 - Test accuracy: 0.1000
+K:\DA6401\da6401_assignment1\train.py:117: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  plt.figure(figsize=(10, 8))

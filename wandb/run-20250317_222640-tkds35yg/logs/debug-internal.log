@@ -1,0 +1,16 @@
+{"time":"2025-03-17T22:26:40.946127+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250317_222640-tkds35yg\\logs\\debug-core.log"}
+{"time":"2025-03-17T22:26:41.0611156+05:30","level":"INFO","msg":"created new stream","id":"tkds35yg"}
+{"time":"2025-03-17T22:26:41.0611156+05:30","level":"INFO","msg":"stream: started","id":"tkds35yg"}
+{"time":"2025-03-17T22:26:41.0611156+05:30","level":"INFO","msg":"handler: started","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:41.0611156+05:30","level":"INFO","msg":"sender: started","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:41.0611156+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:41.518406+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:26:42.1644739+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:26:42.1664733+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T22:26:43.2013864+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.3524335},{"desc":"uploading output.log","runtime_seconds":0.0177001,"progress":"299B/299B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0177001,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-17T22:26:43.9442964+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:26:44.3701278+05:30","level":"INFO","msg":"stream: closing","id":"tkds35yg"}
+{"time":"2025-03-17T22:26:44.3701278+05:30","level":"INFO","msg":"handler: closed","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:44.3701278+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:44.3701278+05:30","level":"INFO","msg":"sender: closed","stream_id":"tkds35yg"}
+{"time":"2025-03-17T22:26:44.40068+05:30","level":"INFO","msg":"stream: closed","id":"tkds35yg"}

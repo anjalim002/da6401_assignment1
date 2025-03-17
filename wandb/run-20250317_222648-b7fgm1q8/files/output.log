@@ -1,0 +1,1 @@
+ Starting training with config: {'run_index': 2, 'optimizer': 'nadam', 'num_layers': 5, 'batch_size': 16, 'activation': 'ReLU', 'hidden_size': 128, 'learning_rate': 0.001, 'weight_init': 'random', 'weight_decay': 0, 'epochs': 20, 'dataset': 'mnist', 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08}

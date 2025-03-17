@@ -1,0 +1,116 @@
+🔄 Starting training with config: {'activation': 'ReLU', 'batch_size': 16, 'beta': 0.9, 'beta1': 0.9, 'beta2': 0.999, 'dataset': 'fashion_mnist', 'epochs': 10, 'epsilon': 1e-08, 'hidden_size': 128, 'learning_rate': 0.0001, 'loss': 'mean_squared_error', 'momentum': 0.9, 'num_layers': 5, 'optimizer': 'adam', 'weight_decay': 0.5, 'weight_init': 'Xavier'}
+Epoch 1/10 - loss: 0.4500 - accuracy: 0.1049 - val_loss: 0.4500 - val_accuracy: 0.0983
+Epoch 2/10 - loss: 0.4500 - accuracy: 0.0984 - val_loss: 0.4500 - val_accuracy: 0.0983
+Epoch 3/10 - loss: 0.4500 - accuracy: 0.1012 - val_loss: 0.4500 - val_accuracy: 0.0990
+Epoch 4/10 - loss: 0.4500 - accuracy: 0.0991 - val_loss: 0.4500 - val_accuracy: 0.0983
+Epoch 5/10 - loss: 0.4500 - accuracy: 0.0994 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 6/10 - loss: 0.4500 - accuracy: 0.0994 - val_loss: 0.4500 - val_accuracy: 0.1003
+Epoch 7/10 - loss: 0.4500 - accuracy: 0.0979 - val_loss: 0.4500 - val_accuracy: 0.0933
+Epoch 8/10 - loss: 0.4500 - accuracy: 0.1009 - val_loss: 0.4500 - val_accuracy: 0.1028
+Epoch 9/10 - loss: 0.4500 - accuracy: 0.0976 - val_loss: 0.4500 - val_accuracy: 0.1003
+Epoch 10/10 - loss: 0.4500 - accuracy: 0.0977 - val_loss: 0.4500 - val_accuracy: 0.0983
+Test loss: 0.4500 - Test accuracy: 0.1000
+K:\DA6401\da6401_assignment1\train.py:117: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  plt.figure(figsize=(10, 8))
+K:\DA6401\da6401_assignment1\train.py:269: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig, axs = plt.subplots(2, 5, figsize=(12, 6))
+Exception ignored in: <function Image.__del__ at 0x000002AB3B9809D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 4046, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Image.__del__ at 0x000002AB3B9809D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 4046, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Image.__del__ at 0x000002AB3B9809D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 4046, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Image.__del__ at 0x000002AB3B9809D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 4046, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Image.__del__ at 0x000002AB3B9809D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 4046, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop
+Exception ignored in: <function Variable.__del__ at 0x000002AB3B9392D0>
+Traceback (most recent call last):
+  File "C:\Users\ANJALI VERMA\anaconda3\envs\dl\lib\tkinter\__init__.py", line 388, in __del__
+RuntimeError: main thread is not in main loop

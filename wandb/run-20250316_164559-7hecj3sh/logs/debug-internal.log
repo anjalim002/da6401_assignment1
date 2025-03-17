@@ -1,0 +1,16 @@
+{"time":"2025-03-16T16:45:59.880845+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"K:\\DA6401\\da6401_assignment1\\wandb\\run-20250316_164559-7hecj3sh\\logs\\debug-core.log"}
+{"time":"2025-03-16T16:46:00.0080648+05:30","level":"INFO","msg":"created new stream","id":"7hecj3sh"}
+{"time":"2025-03-16T16:46:00.0080648+05:30","level":"INFO","msg":"stream: started","id":"7hecj3sh"}
+{"time":"2025-03-16T16:46:00.0080648+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:46:00.0080648+05:30","level":"INFO","msg":"handler: started","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:46:00.0080648+05:30","level":"INFO","msg":"sender: started","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:46:00.3569754+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T16:49:55.3820621+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T16:49:55.3828238+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T16:49:56.3982085+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1092164,"progress":"1.1KB/1.1KB"}],"total_operations":1}}
+{"time":"2025-03-16T16:49:56.6186032+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T16:49:56.9658437+05:30","level":"INFO","msg":"stream: closing","id":"7hecj3sh"}
+{"time":"2025-03-16T16:49:56.9658437+05:30","level":"INFO","msg":"handler: closed","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:49:56.9658437+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:49:56.9658437+05:30","level":"INFO","msg":"sender: closed","stream_id":"7hecj3sh"}
+{"time":"2025-03-16T16:49:56.9744413+05:30","level":"INFO","msg":"stream: closed","id":"7hecj3sh"}
